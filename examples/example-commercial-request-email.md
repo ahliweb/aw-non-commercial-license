@@ -1,3 +1,5 @@
+# Commercial Licensing Request Email
+
 Subject: Commercial Licensing Request for AW Non-Commercial License 1.0
 
 Hello,
