@@ -29,7 +29,7 @@ You may **not** use the software for **commercial purposes** unless you first ob
 
 For commercial licensing inquiries, contact:
 
-**commercial@ahliweb.com**
+**[commercial@ahliweb.com](mailto:commercial@ahliweb.com)**
 
 ## What this license is for
 
@@ -46,11 +46,11 @@ This license is **not** an open-source license in the OSI sense, because it rest
 
 ## Repository Contents
 
-- `LICENSE` — official legal text
-- `FAQ.md` — common usage questions
-- `COMMERCIAL-LICENSING.md` — how to request commercial rights
-- `docs/` — supporting explanations and comparisons
-- `examples/` — implementation examples
+- [`LICENSE`](LICENSE) — official legal text
+- [`FAQ.md`](FAQ.md) — common usage questions
+- [`COMMERCIAL-LICENSING.md`](COMMERCIAL-LICENSING.md) — how to request commercial rights
+- [`docs/`](docs/) — supporting explanations and comparisons
+- [`examples/`](examples/) — implementation examples
 
 ## Recommended Labeling
 
@@ -70,9 +70,9 @@ The license includes an "AS IS" warranty disclaimer.
 
 ## Contributing
 
-Suggestions for clarity, drafting quality, and documentation improvements are welcome. See `CONTRIBUTING.md`.
+Suggestions for clarity, drafting quality, and documentation improvements are welcome. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Contact
 
 Commercial licensing:
-**commercial@ahliweb.com**
+**[commercial@ahliweb.com](mailto:commercial@ahliweb.com)**
