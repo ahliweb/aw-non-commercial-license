@@ -46,7 +46,7 @@ This license is **not** an open-source license in the OSI sense, because it rest
 
 ## Repository Contents
 
-- [`LICENSE`](LICENSE) — official legal text
+- [`LICENSE.md`](LICENSE.md) — official legal text
 - [`FAQ.md`](FAQ.md) — common usage questions
 - [`COMMERCIAL-LICENSING.md`](COMMERCIAL-LICENSING.md) — how to request commercial rights
 - [`docs/`](docs/) — supporting explanations and comparisons
