@@ -12,7 +12,6 @@ The Software may not be used for any Commercial Purpose without prior written pe
 
 "Commercial Purpose" means any use of the Software that is intended for or directed toward commercial advantage, monetary compensation, or revenue generation. This includes, but is not limited to:
 
-
 - Selling, renting, sublicensing, or otherwise distributing the Software or modified variants for payment.
 - Using the Software as, or as part of, a paid software-as-a-service (SaaS) or hosted product.
 - Using the Software internally by a business or commercial entity to support revenue-generating operations or service delivery.
