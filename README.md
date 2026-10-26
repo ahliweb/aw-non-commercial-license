@@ -1,58 +1,39 @@
-# AW Non-Commercial License 2.0.0
+# AW Non-Commercial License 3.0.0
 
-**Current canonical public license text:** [LICENSE.md](LICENSE.md) · **Version:** [VERSION](VERSION) · **Previous immutable license:** [AW-NC 1.0.0](licenses/AW-NC-1.0.0.md)
+**Current canonical license:** [LICENSE.md](LICENSE.md) · **Version:** [VERSION](VERSION) · **Prior historical licenses:** [1.0.0](licenses/AW-NC-1.0.0.md) and [2.0.0](licenses/AW-NC-2.0.0.md).
 
-AW Non-Commercial License (AW-NC) is a **custom source-available license**, **not OSI-approved open source**. It grants use, modification and redistribution for non-commercial purposes subject to its terms. Commercial use requires **prior written authorization** from the authorized rightsholder(s).
+AW-NC is a custom **source-available license, NOT OSI-approved open source**. Noncommercial use, copying, modification and redistribution of properly identified AW-NC Covered Material are subject to its terms. Commercial use (including paid SaaS, consulting, or revenue-supporting business operations) requires prior written authorization: **commercial@ahliweb.com**.
 
-## New in 2.0.0 — contractual covenant and commitment before Allah
+## New in 3.0.0 — Existing licenses are respected
 
-**Section 5 of the operative LICENSE.md** expressly sets out a reciprocal commitment to honest and lawful conduct; it acknowledges the licensor's Islamic conviction that lawful contracts are an `akad` and `amanah` before **Allah Jalla wa 'Ala**, affirmed by Islam as the Supreme Sovereign, Lawgiver and ultimate Judge of this world and the Hereafter. The licensor pledges to honor its grants justly. This religious commitment does **not** make Allah a party in secular contract litigation, require a Licensee's conversion or oath, discriminate on religion, claim Sharia certification or replace applicable national law.
+**[Section 8](LICENSE.md#8-coexisting-licenses-and-scope-of-new-developments)** preserves pre-existing MIT, Apache, GPL, AGPL, proprietary, or other licenses **within their actual legal scope**. An AW-NC repository may contain multiple components with distinct rights; AW-NC does not relicense third-party code automatically.
 
-- [Official operative Section 5](LICENSE.md#5-contractual-covenant-amanah-and-sharia-aligned-commitment)
-- [Indonesian guide to the Sharia clause](docs/akad-syari-id.md)
-- [Supplementary Islamic contractual ethics](docs/islamic-contractual-ethics.md)
-- [Qur'anic, IIFA, MUI, and Indonesian legal evidence](docs/evidence-and-references.md)
+AW-NC applies to an independently licensable **new original enhancement only when** its authorized copyright holder(s) expressly license the identified work as AW-NC. New modifications of existing GPL/AGPL or other third-party material remain subject to applicable source/reciprocal rights. No incompatible combined distribution becomes legal simply because AW-NC coexists in the same repository.
 
-## Semantic versioning and historical terms
+- [LICENSE-MAP.md](LICENSE-MAP.md): template to document per-component owners/licenses and SPDX expressions
+- [Similar licenses comparison](docs/comparison.md): AFPL, PolyForm, BSL, Commons Clause, SSPL, Elastic and MIT
+- [License governance](docs/license-compliance-governance.md): provenance, attribution, copyleft compatibility
 
-This license repository adopts [SemVer 2.0.0](https://semver.org/spec/v2.0.0.html) **as a version-label convention for legal text**, not as a statement that legal rights behave like software APIs. The operative legal meaning is always determined by the published text and relevant law.
+## Islamic covenant (retained)
 
-- **MAJOR**: changes to rights, restrictions, contractual covenants or binding interpretation (1.0.0 → 2.0.0 here).
-- **MINOR**: new non-binding examples, translations, explanatory documentation or compatibility-preserving processes.
-- **PATCH**: typo, link, metadata or non-substantive correction that does not alter legal meaning.
-- Pre-releases: e.g. `2.1.0-rc.1` must be clearly marked as drafts and never misrepresented as effective grants.
+**Section 5** affirms the licensor's solemn contractual amanah and accountability before **Allah Jalla wa 'Ala**, according to Ahlus Sunnah wal Jama'ah with the understanding of the Salaf. Upholding valid rights of other authors and contributors is also an amanah. The license requires no religious oath, conversion or religious court and does not replace national civil law. Neither legal nor Sharia certification is claimed. [Akad explanation in Indonesian](docs/akad-syari-id.md).
 
-See [versioning policy](docs/semantic-versioning.md), [CHANGELOG](CHANGELOG.md), and [adoption guide](docs/adoption-guide.md).
+## Semantic Versioning and history
 
-**No retroactive replacement:** merely updating this repository does not change a Software copy already licensed under [1.0.0](licenses/AW-NC-1.0.0.md). The rights holder must expressly select 2.0.0 for a particular project or release. If multiple contributors own copyright, verify their authority.
+[SemVer policy](docs/semantic-versioning.md) uses MAJOR for legal changes, MINOR for non-binding guidance, and PATCH for strictly non-substantive corrections. Current 3.0.0 introduces substantive license-scope Section 8. [CHANGELOG](CHANGELOG.md). The prior complete 1.0.0 and 2.0.0 texts remain immutable and earlier software grants are not retroactively replaced.
 
-## Documentation
+`LicenseRef-AW-NC-3.0.0` is a *custom SPDX reference* requiring extracted license text, not an OSI/SPDX License List approval. Software projects must explicitly select a version and have rights-holder authority.
 
-| Resource | Purpose |
-|---|---|
-| [LICENSE.md](LICENSE.md) | Complete binding text if expressly selected |
-| [licenses/AW-NC-1.0.0.md](licenses/AW-NC-1.0.0.md) | Immutable historical complete 1.0 license |
-| [docs/semantic-versioning.md](docs/semantic-versioning.md) | MAJOR.MINOR.PATCH policy and release controls |
-| [docs/akad-syari-id.md](docs/akad-syari-id.md) | Indonesian explanation of binding Section 5 |
-| [docs/islamic-contractual-ethics.md](docs/islamic-contractual-ethics.md) | Supplementary Ahlus Sunnah / Salaf contractual ethics |
-| [docs/comparison.md](docs/comparison.md) | AW-NC versus Aladdin AFPL, MIT, GPL/AGPL |
-| [docs/evidence-and-references.md](docs/evidence-and-references.md) | Empirical research, law, juristic and standards evidence |
-| [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md) | Request written commercial authorization |
-| [docs/commercial-license-agreement-framework.md](docs/commercial-license-agreement-framework.md) | Commercial contract preparation guidance |
-| [docs/license-compliance-governance.md](docs/license-compliance-governance.md) | SPDX/SBOM, version and provenance controls |
-| [FAQ.md](FAQ.md) | Common questions and clarifications |
+## Primary documents
 
-## Use in your project
+- [LICENSE.md](LICENSE.md) — complete current legal text where adopted
+- [LICENSE-MAP.md](LICENSE-MAP.md) — mixed-license component tracking template
+- [docs/comparison.md](docs/comparison.md) — similar licenses, risks and scenarios
+- [docs/evidence-and-references.md](docs/evidence-and-references.md) — scholarly, statutory and juristic source register
+- [docs/akad-syari-id.md](docs/akad-syari-id.md) — Islamic contractual ethics and respecting other rightsholders
+- [docs/adoption-guide.md](docs/adoption-guide.md) — adopting the license
+- [docs/semantic-versioning.md](docs/semantic-versioning.md) — version policy
+- [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md) — how to request a commercial grant
+- [releases/3.0.0.md](releases/3.0.0.md) — release record / pending independent expert approvals
 
-Choose and identify the exact license text/version:
-
-```text
-License: AW Non-Commercial License 2.0.0
-License text: https://github.com/ahliweb/aw-non-commercial-license/blob/main/LICENSE.md
-SPDX custom reference (if full text supplied): LicenseRef-AW-NC-2.0.0
-Commercial license inquiries: commercial@ahliweb.com
-```
-
-Preserve required notices. The version is **not** a license approved by the OSI nor an official SPDX License List entry. A license version is not a claim of legal enforceability, international ISO certification or Sharia certification.
-
-For commercial permission: **commercial@ahliweb.com**.
+Verify locally: `python3 scripts/validate_license.py`. This checks version consistency and unchanged history, not the legal validity of a combined work.
