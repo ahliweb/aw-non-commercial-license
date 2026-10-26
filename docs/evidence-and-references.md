@@ -8,7 +8,7 @@ Do not equate four different kinds of evidence: (1) binding legal/license text; 
 
 | ID | Evidence type | Source | Verified finding / relevance | Limitation |
 |---|---|---|---|---|
-| L1 | Binding license text | [AW-NC LICENSE.md](../LICENSE.md), §§1–4 | Section 1 requires written permission for commercial purposes; Section 5 now includes reciprocal good-faith obligations and the licensor's Sharia-based solemn declaration; Sections 6–7 cover law and version scope | Contract enforceability and scope require jurisdiction-specific legal analysis |
+| L1 | Binding license text | [AW-NC LICENSE.md](../LICENSE.md), §§1–7 | Section 1 requires written permission for commercial purposes; Section 5 now includes reciprocal good-faith obligations and the licensor's Sharia-based solemn declaration; Sections 6–7 cover law and version scope | Contract enforceability and scope require jurisdiction-specific legal analysis |
 | L2 | Historical primary license | [AFPL v8 (SPDX archive)](https://spdx.org/licenses/archive/archived_ll_v2.2/Aladdin.html), §2(a)–(c) | Running expressly unrestricted; paid third-party distribution restricted; corresponding source and notices required for distributed derivative works | AFPL v8 must not be assumed identical to every release; compare actual source headers |
 | L3 | License reference | [AFPL v9 (ScanCode)](https://scancode-licensedb.aboutcode.org/afpl-9.0.html) | Version date 18 September 2000; independently corroborates functional-use and distribution distinction | Catalog is a curated reproduction; actual application requires relevant work's license text |
 | L4 | Policy authority | [OSI Open Source Definition](https://opensource.org/osd) | A license forbidding commercial fields of endeavor or commercial redistribution is not OSI-open-source | Policy classification is not a court's judgment |
@@ -40,7 +40,7 @@ Do not equate four different kinds of evidence: (1) binding legal/license text; 
 - No study cited here proves that AW-NC prevents infringement or increases sales.
 - A fatwa/resolution is a doctrinal authority, not empirical validation or a court ruling.
 - ISO/IEC 27001, 27002, 27005, 27017, 27018, 27034, 27701, 22301, 20000-1 and 15408 may be relevant to security, privacy, continuity, service management or product assurance of deployments; **they are not software license compliance certifications**. Prioritize ISO/IEC 5230 and 5962 for license governance.
-- A local SPDX token such as LicenseRef-AW-NC-1.0 needs its extracted text documented in SPDX metadata and is not an OSI/SPDX-list endorsement.
+- A local SPDX token such as LicenseRef-AW-NC-2.0.0 needs its extracted text documented in SPDX metadata and is not an OSI/SPDX-list endorsement.
 
 ## Review cadence
 

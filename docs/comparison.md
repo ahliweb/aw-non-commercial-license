@@ -18,7 +18,7 @@
 | Mandatory derivative licensing | No express whole-work copyleft provision; do not remove AW-NC obligations from copies of the covered Software | Distributed covered Work as a whole must be licensed at no charge to third parties under AFPL (AFPL section 2(c)(ii)) |
 | Trademarks | AW-NC section 3 expressly reserves rights | Consult separate applicable trademark rights |
 | Commercial permission path | Explicit written permission request: commercial@ahliweb.com | Separate rights require authorization from the relevant rightsholder(s) |
-| SPDX identification | Custom local reference LicenseRef-AW-NC-1.0; NOT an official SPDX-list identifier | Archived SPDX list associates Aladdin with AFPL v8; do not automatically use that identifier for v9: ScanCode catalog uses LicenseRef-scancode-afpl-9.0 |
+| SPDX identification | Custom local reference LicenseRef-AW-NC-2.0.0 (full extracted text required); NOT an official SPDX-list identifier | Archived SPDX list associates Aladdin with AFPL v8; do not automatically use that identifier for v9: ScanCode catalog uses LicenseRef-scancode-afpl-9.0 |
 
 **Do not infer** that every use of AFPL is freely monetizable: its section 2(a) covers indirect consideration connected with distribution. Nor infer that a SaaS provider never distributes software: inspect client-side bundles, containers, plug-ins, copies delivered to customers, and the exact agreement.
 

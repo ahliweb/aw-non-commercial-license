@@ -5,7 +5,7 @@
 ## Controls based on ISO/IEC 5230 and SPDX ISO/IEC 5962
 
 1. **Inventory:** identify direct/transitive software dependencies, bundled assets, snippets, AI-generated or imported contributions, and their file-level notices. Do not assume a root LICENSE governs all included components.
-2. **Record:** create an SPDX-compatible SBOM with package/component names, versions, hashes, license declarations and observed licenses, copyright holders and links to original sources. For v2.0.0 document extracted license text with local LicenseRef-AW-NC-2.0.0; for retained v1.0.0 grants use LicenseRef-AW-NC-1.0; do not label it as an officially listed SPDX license.
+2. **Record:** create an SPDX-compatible SBOM with package/component names, versions, hashes, license declarations and observed licenses, copyright holders and links to original sources. For v2.0.0 document extracted license text with local LicenseRef-AW-NC-2.0.0; for retained v1.0.0 grants use LicenseRef-AW-NC-1.0.0 with the corresponding archived extracted text; do not label it as an officially listed SPDX license.
 3. **Review:** have a designated license officer validate MIT/Apache/GPL/AGPL/AFPL/other obligations, conflicts, exceptions, and source disclosure requirements before release.
 4. **Approve:** maintain signed grants for SaaS, internal commercial operations, customer work, white-label/redistribution and sublicensing as permitted. Record decision, approver, effective interval and version.
 5. **Contributions:** verify copyright ownership and contributor authorization; publishing an AW-NC work does not automatically allow unilateral commercial re-licensing of third-party contributions.
@@ -27,7 +27,7 @@
 
 ## Future editions: proposed only (after 2.0.0)
 
-For a future **reviewed AW-NC 2.1.0/3.0.0** with a formal change proposal before altering legally operative terms. Recommended candidate clauses, subject to lawyer/fiqh examination:
+For future **reviewed AW-NC 2.1.0/3.0.0** editions, prepare a formal change proposal before altering legally operative terms. Recommended candidate clauses, subject to lawyer/fiqh examination:
 
 - Precise definitions: software, derivative work, internal commercial use, hosted service/SaaS, trial, PoC, indirect revenue, redistribution and sublicensing.
 - Express evaluation/trial permission and whether corporate non-production testing is allowed.
