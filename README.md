@@ -1,90 +1,58 @@
-# AW Non-Commercial License 1.0
+# AW Non-Commercial License 2.0.0
 
-**AW Non-Commercial License 1.0** is a custom source-available software license that permits use, modification, and redistribution for **non-commercial purposes only**. Commercial use requires prior written permission from the copyright holder.
+**Current canonical public license text:** [LICENSE.md](LICENSE.md) · **Version:** [VERSION](VERSION) · **Previous immutable license:** [AW-NC 1.0.0](licenses/AW-NC-1.0.0.md)
 
-## Status
+AW Non-Commercial License (AW-NC) is a **custom source-available license**, **not OSI-approved open source**. It grants use, modification and redistribution for non-commercial purposes subject to its terms. Commercial use requires **prior written authorization** from the authorized rightsholder(s).
 
-- Custom license
-- Source-available
-- Not OSI-approved
-- Not an open-source license
+## New in 2.0.0 — contractual covenant and commitment before Allah
 
-## Purpose
+**Section 5 of the operative LICENSE.md** expressly sets out a reciprocal commitment to honest and lawful conduct; it acknowledges the licensor's Islamic conviction that lawful contracts are an `akad` and `amanah` before **Allah Jalla wa 'Ala**, affirmed by Islam as the Supreme Sovereign, Lawgiver and ultimate Judge of this world and the Hereafter. The licensor pledges to honor its grants justly. This religious commitment does **not** make Allah a party in secular contract litigation, require a Licensee's conversion or oath, discriminate on religion, claim Sharia certification or replace applicable national law.
 
-This repository is the canonical public home of the AW Non-Commercial License 1.0 text and related documentation.
+- [Official operative Section 5](LICENSE.md#5-contractual-covenant-amanah-and-sharia-aligned-commitment)
+- [Indonesian guide to the Sharia clause](docs/akad-syari-id.md)
+- [Supplementary Islamic contractual ethics](docs/islamic-contractual-ethics.md)
+- [Qur'anic, IIFA, MUI, and Indonesian legal evidence](docs/evidence-and-references.md)
 
-It provides:
+## Semantic versioning and historical terms
 
-- the official license text
-- usage guidance
-- frequently asked questions
-- examples
-- commercial licensing contact information
+This license repository adopts [SemVer 2.0.0](https://semver.org/spec/v2.0.0.html) **as a version-label convention for legal text**, not as a statement that legal rights behave like software APIs. The operative legal meaning is always determined by the published text and relevant law.
 
-## Core Rule
+- **MAJOR**: changes to rights, restrictions, contractual covenants or binding interpretation (1.0.0 → 2.0.0 here).
+- **MINOR**: new non-binding examples, translations, explanatory documentation or compatibility-preserving processes.
+- **PATCH**: typo, link, metadata or non-substantive correction that does not alter legal meaning.
+- Pre-releases: e.g. `2.1.0-rc.1` must be clearly marked as drafts and never misrepresented as effective grants.
 
-You may use, copy, modify, and distribute software under this license for **non-commercial purposes**.
+See [versioning policy](docs/semantic-versioning.md), [CHANGELOG](CHANGELOG.md), and [adoption guide](docs/adoption-guide.md).
 
-You may **not** use the software for **commercial purposes** unless you first obtain written permission.
+**No retroactive replacement:** merely updating this repository does not change a Software copy already licensed under [1.0.0](licenses/AW-NC-1.0.0.md). The rights holder must expressly select 2.0.0 for a particular project or release. If multiple contributors own copyright, verify their authority.
 
-For commercial licensing inquiries, contact:
+## Documentation
 
-**[commercial@ahliweb.com](mailto:commercial@ahliweb.com)**
+| Resource | Purpose |
+|---|---|
+| [LICENSE.md](LICENSE.md) | Complete binding text if expressly selected |
+| [licenses/AW-NC-1.0.0.md](licenses/AW-NC-1.0.0.md) | Immutable historical complete 1.0 license |
+| [docs/semantic-versioning.md](docs/semantic-versioning.md) | MAJOR.MINOR.PATCH policy and release controls |
+| [docs/akad-syari-id.md](docs/akad-syari-id.md) | Indonesian explanation of binding Section 5 |
+| [docs/islamic-contractual-ethics.md](docs/islamic-contractual-ethics.md) | Supplementary Ahlus Sunnah / Salaf contractual ethics |
+| [docs/comparison.md](docs/comparison.md) | AW-NC versus Aladdin AFPL, MIT, GPL/AGPL |
+| [docs/evidence-and-references.md](docs/evidence-and-references.md) | Empirical research, law, juristic and standards evidence |
+| [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md) | Request written commercial authorization |
+| [docs/commercial-license-agreement-framework.md](docs/commercial-license-agreement-framework.md) | Commercial contract preparation guidance |
+| [docs/license-compliance-governance.md](docs/license-compliance-governance.md) | SPDX/SBOM, version and provenance controls |
+| [FAQ.md](FAQ.md) | Common questions and clarifications |
 
-## What this license is for
+## Use in your project
 
-This license is intended for authors who want to:
+Choose and identify the exact license text/version:
 
-- publish source code publicly
-- allow learning, evaluation, research, and non-commercial modification
-- restrict commercial exploitation
-- preserve a direct commercial licensing path
+```text
+License: AW Non-Commercial License 2.0.0
+License text: https://github.com/ahliweb/aw-non-commercial-license/blob/main/LICENSE.md
+SPDX custom reference (if full text supplied): LicenseRef-AW-NC-2.0.0
+Commercial license inquiries: commercial@ahliweb.com
+```
 
-## What this license is not
+Preserve required notices. The version is **not** a license approved by the OSI nor an official SPDX License List entry. A license version is not a claim of legal enforceability, international ISO certification or Sharia certification.
 
-This license is **not** an open-source license in the OSI sense, because it restricts commercial use.
-
-## Repository Contents
-
-- [`LICENSE.md`](LICENSE.md) — official legal text
-- [`FAQ.md`](FAQ.md) — common usage questions
-- [`COMMERCIAL-LICENSING.md`](COMMERCIAL-LICENSING.md) — how to request commercial rights
-- [`docs/`](docs/) — supporting explanations and comparisons
-- [`examples/`](examples/) — implementation examples
-
-## Recommended Labeling
-
-For documentation and internal tooling, this repository uses the name:
-
-`AW Non-Commercial License 1.0`
-
-For private tooling or internal SBOM references, a local custom reference such as:
-
-`LicenseRef-AW-NC-1.0`
-
-may be used as a project convention.
-
-## Warranty
-
-The license includes an "AS IS" warranty disclaimer.
-
-## Contributing
-
-Suggestions for clarity, drafting quality, and documentation improvements are welcome. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
-
-## Contact
-
-Commercial licensing:
-**[commercial@ahliweb.com](mailto:commercial@ahliweb.com)**
-
-## Additional guidance and evidence
-
-These **non-binding** resources explain existing rights and proposed future improvements; they do not change [LICENSE.md](LICENSE.md):
-
-- [AW-NC vs Aladdin (AFPL), MIT, GPL/AGPL](docs/comparison.md) — version-specific use/distribution comparison and ten concrete scenarios.
-- [Islamic contractual ethics](docs/islamic-contractual-ethics.md) — Qur'an, Ahlus Sunnah wal Jama'ah understanding of the Salaf, IIFA Resolution 43 (1988), and MUI Fatwa 1/2005; explanatory, not a certification or amended license.
-- [Evidence and research register](docs/evidence-and-references.md) — peer-reviewed empirical/theoretical studies, Indonesian copyright law, fiqh institutional sources and ISO/IEC standards.
-- [Commercial license agreement framework](docs/commercial-license-agreement-framework.md) — preparation checklist only; **does not grant commercial rights**.
-- [License compliance and version governance](docs/license-compliance-governance.md) — SPDX/SBOM controls, contribution provenance, and future license revision criteria.
-
-**Important:** commercial permission must be granted in writing by verified copyright holder(s). The repo being public does not authorize commercial use. AW-NC 1.0 is neither OSI-approved nor an SPDX-listed license; `LicenseRef-AW-NC-1.0` is a custom identifier for a properly documented SPDX file or SBOM.
+For commercial permission: **commercial@ahliweb.com**.

@@ -1,6 +1,6 @@
 # Commercial Licensing
 
-Thank you for your interest in using software under the AW Non-Commercial License 1.0 for commercial purposes.
+Thank you for your interest in using software under the AW Non-Commercial License 2.0.0 for commercial purposes.
 
 Commercial use is not permitted under the public license text without prior written permission.
 
@@ -39,3 +39,9 @@ Use the [non-binding commercial agreement framework](docs/commercial-license-agr
 Written permission requires actual agreement by authorized rightsholder(s); an inquiry, invoice, unauthenticated email, silence or download **alone** is not an authorization. Third-party dependencies and contributors remain subject to their own rights. Consult [evidence register](docs/evidence-and-references.md).
 
 For applicants who voluntarily wish Sharia-aligned contracting, discuss clear subject matter, informed mutual consent, transparent consideration, fair remediation and existing valid third-party rights. No certification is claimed and non-Muslim applicants are not required to adopt religious beliefs.
+
+## Versioned agreement and religious commitment
+
+When negotiating a commercial grant, clearly identify the selected **AW-NC license version** (`2.0.0` if expressly adopted) and the Software release/commit. Refer to [Section 5 of the official license](LICENSE.md#5-contractual-covenant-amanah-and-sharia-aligned-commitment) for its mutual honesty undertaking and the licensor's solemn accountability before Allah Jalla wa 'Ala. No conversion, oath, religious affiliation or acceptance of a religious tribunal is required.
+
+Provide both parties an opportunity to review complete contract terms and applicable law, and maintain an immutable signed copy. A separate commercial agreement may have different expressly agreed rights and obligations. Older grants do not automatically change because this repository updated its canonical text.
