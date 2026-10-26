@@ -147,3 +147,42 @@ For maintainers, users, and commercial applicants, this means:
 This document may be included in the repository as a supplementary ethical note for Muslim readers, communities, or institutions that want licensing practice to align with Islamic values of honesty, covenant-keeping, trust, and accountability before Allah according to Ahlus Sunnah wal Jama'ah upon the understanding of the Salaf.
 
 It should not be used to alter the legal meaning of the LICENSE file unless the maintainers intentionally publish a new legal version.
+
+## Contract Design Addendum: Clear, Just and Verifiable Permissions (2026-10-26)
+
+This section **supplements ethical guidance only**. It does **not** alter [AW-NC 1.0](../LICENSE.md), create new legal conditions, issue a fatwa, or require acceptance of Islamic beliefs. Rights and legal duties are determined by the actual applicable license, legitimate contract and law.
+
+### Fiqh principles for voluntarily Sharia-aligned software licensing
+
+1. **Al-wafa' bil-'uqud (fulfilling lawful agreements):** identify accepted duties and do not deliberately exceed authorized software rights (Al-Ma'idah 5:1; Al-Isra' 17:34).
+2. **Al-taradi and sidq (informed mutual consent and truthfulness):** explain the product, permitted scope, constraints and pricing before acceptance (An-Nisa' 4:29).
+3. **Amanah and al-'adl (trust and justice):** protect rights of licensors, users, contributors and clients; investigate disputed allegations fairly (An-Nisa' 4:58; Al-Anfal 8:27).
+4. **Clear ma'qud 'alaih (contract subject matter):** state the software name, release/commit, commercial activities, copies/distribution, SaaS and service scope; avoid material uncertainty in what is licensed.
+5. **Transparent 'iwad (consideration):** state applicable monetary compensation, payment milestones, taxes and services; avoid deceptive marketing, hidden charges and misrepresentations.
+6. **Mu'awadhah and tabarru':** keep paid commercial arrangements distinct from genuine noncommercial permissions; charitable or research branding must not mask prohibited exploitation.
+7. **Documentation and proof:** record signed authorization, changes, approvals and settlement terms; Al-Baqarah 2:282 addresses writing down deferred financial obligations, and may inspire careful recordkeeping without equating that verse directly to a software license.
+8. **Islah and restitution:** promptly stop unauthorized activity, clarify actual obligations, restore rights and resolve financial issues fairly; legal liability and religious repentance are distinct questions.
+9. **Proportionate statements:** do not use a technical license violation alone to pronounce any named individual a disbeliever, eternally condemned or automatically criminally liable.
+
+### Institutional juristic sources
+
+- **International Islamic Fiqh Academy, Resolution 43 (5/5), Kuwait, 15 December 1988:** commercial names, trademarks, creative works, copyright and patents have recognized rights and economic value under the resolution. [Official resolution](https://iifa-aifi.org/en/54157.html).
+- **Majelis Ulama Indonesia, Fatwa 1/MUNAS VII/MUI/5/2005, 28 July 2005:** intellectual property consistent with Islamic law is protected as *huquq maliyyah*; it may be the subject of *mu'awadhah* (exchange/commerce) and *tabarru'* (non-commercial) transactions, and unauthorized infringement is condemned. [Official fatwa scan, pp. 470–471](https://mui.or.id/storage/fatwa/537803ba9f7fdb09b3d6de005cf381df-lampiran.pdf).
+
+A fatwa or juristic resolution is a **normative interpretive source**, not peer-reviewed empirical evidence, a legal court judgment, statutory legislation, or an AW-NC-specific Sharia certification. Consult qualified scholars on contested fiqh applications, and lawyers for contract enforceability.
+
+### Practical scenarios
+
+| Example | Ethical action |
+|---|---|
+| Student uses code for education | Maintain truthful noncommercial purpose and attribution |
+| Company tests AW-NC for future monetization | Disclose the intended business use; seek written clarification/permission before activities outside grant |
+| SaaS provider plans subscription revenue | Obtain explicit written commercial authorization and precise scope |
+| Consultant uses code for paying customers | Secure permissions before incorporating or delivering the software |
+| Reseller wants white-label rights | Agree distribution, brands, fees and downstream customer rights in a documented contract |
+| Maintainer accepts community contributions | Verify copyright provenance and contributor rights before commercial re-licensing |
+| Past misuse is discovered | Stop misuse, correct representations, determine and return rights appropriately, and seek qualified advice |
+
+### Evidence and legal boundaries
+
+See [research and evidence register](evidence-and-references.md), [commercial contract framework](commercial-license-agreement-framework.md), and [Indonesia Copyright Act No. 28 of 2014](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014). The Islamic ethical emphasis is distinguished from binding intellectual property law; neither nullifies lawful statutory exceptions or automatically confers exclusive copyright ownership.

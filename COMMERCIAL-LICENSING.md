@@ -31,3 +31,11 @@ Commercial permission is typically required for:
 - client work or consulting
 - paid support or managed services
 - resale, sublicensing, or bundling in commercial products
+
+## Contract preparation and evidence
+
+Use the [non-binding commercial agreement framework](docs/commercial-license-agreement-framework.md) for the software release/commit, parties, expressly granted SaaS/white-label/internal/deployment rights, fees, duration, trademarks, derivative works, provenance, dispute resolution and optional Sharia-aligned ethical review.
+
+Written permission requires actual agreement by authorized rightsholder(s); an inquiry, invoice, unauthenticated email, silence or download **alone** is not an authorization. Third-party dependencies and contributors remain subject to their own rights. Consult [evidence register](docs/evidence-and-references.md).
+
+For applicants who voluntarily wish Sharia-aligned contracting, discuss clear subject matter, informed mutual consent, transparent consideration, fair remediation and existing valid third-party rights. No certification is claimed and non-Muslim applicants are not required to adopt religious beliefs.
