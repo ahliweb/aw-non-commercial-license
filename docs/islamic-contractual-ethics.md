@@ -4,7 +4,7 @@
 
 This document provides a supplementary Islamic ethical explanation of the seriousness of agreements, permissions, conditions, and trust-based obligations related to licensing and commercial permissions.
 
-It does not replace legal review, statutory compliance, or the binding legal text of the license. Instead, it explains why honoring agreements is a serious moral and religious responsibility in Islam according to **Ahlus Sunnah wal Jama'ah upon the understanding of the Salafus Salih**.
+It does not replace legal review, statutory compliance, or the binding legal text of the license. **From AW-NC 2.0.0 onwards (only for expressly adopted versions), Section 5 of LICENSE.md itself contains an operative covenant and a solemn Islamic affirmation; the present explanatory guide remains non-binding and adds no new conditions.** Instead, it explains why honoring agreements is a serious moral and religious responsibility in Islam according to **Ahlus Sunnah wal Jama'ah upon the understanding of the Salafus Salih**.
 
 ## Methodological Foundation
 
@@ -186,3 +186,20 @@ A fatwa or juristic resolution is a **normative interpretive source**, not peer-
 ### Evidence and legal boundaries
 
 See [research and evidence register](evidence-and-references.md), [commercial contract framework](commercial-license-agreement-framework.md), and [Indonesia Copyright Act No. 28 of 2014](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014). The Islamic ethical emphasis is distinguished from binding intellectual property law; neither nullifies lawful statutory exceptions or automatically confers exclusive copyright ownership.
+
+## Mapping to the operative AW-NC 2.0.0 covenant
+
+The preceding guidance dates from the earlier non-binding explanation. As of AW-NC 2.0.0, [Section 5](../LICENSE.md#5-contractual-covenant-amanah-and-sharia-aligned-commitment) is part of the **license text**, while this supplementary document is not:
+
+| Operative provision | Practical interpretation |
+|---|---|
+| 5.1 | Mutual commitments to truthfulness, fair dealing, licensed scope and respect for lawful third-party rights |
+| 5.2 | Solemn **licensor** commitment before Allah Jalla wa 'Ala as Supreme Sovereign, Lawgiver and ultimate Judge over this world and the Hereafter; voluntary Muslim moral understanding of an akad and amanah |
+| 5.3 | No creed, conversion, oath or religious tribunal required for use; equal legal rights |
+| 5.4 | Scripture and institutional juristic sources as normative foundations, **not** product-specific Sharia certification |
+| 6 | Lawful civil enforcement and preservation of statutory limits |
+| 7 | Explicit prospective version selection; historical AW-NC 1.0.0 remains in force wherever actually selected |
+
+The **civil license agreement** is between the legal rightsholder(s) and the licensee; it is **not** a civil contract with Allah as a listed legal party. The Muslim belief in accountability before Allah remains sincerely affirmed by the licensor and voluntarily recognized by Muslim adopters. This avoids both theological overreach and inappropriate legal coercion.
+
+Read the [full Indonesian guide](akad-syari-id.md), [IIFA Resolution 43](https://iifa-aifi.org/en/54157.html), [MUI Fatwa 1/2005](https://mui.or.id/baca/fatwa/perlindungan-haki-hak-kekayaan-intelektual), and [official 2014 Copyright Act](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).

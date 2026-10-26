@@ -8,7 +8,7 @@ Do not equate four different kinds of evidence: (1) binding legal/license text; 
 
 | ID | Evidence type | Source | Verified finding / relevance | Limitation |
 |---|---|---|---|---|
-| L1 | Binding license text | [AW-NC LICENSE.md](../LICENSE.md), §§1–4 | Requires prior written permission for defined commercial purposes, including internal revenue-supporting business operations, SaaS and paid client services | Contract enforceability and scope require jurisdiction-specific legal analysis |
+| L1 | Binding license text | [AW-NC LICENSE.md](../LICENSE.md), §§1–7 | Section 1 requires written permission for commercial purposes; Section 5 now includes reciprocal good-faith obligations and the licensor's Sharia-based solemn declaration; Sections 6–7 cover law and version scope | Contract enforceability and scope require jurisdiction-specific legal analysis |
 | L2 | Historical primary license | [AFPL v8 (SPDX archive)](https://spdx.org/licenses/archive/archived_ll_v2.2/Aladdin.html), §2(a)–(c) | Running expressly unrestricted; paid third-party distribution restricted; corresponding source and notices required for distributed derivative works | AFPL v8 must not be assumed identical to every release; compare actual source headers |
 | L3 | License reference | [AFPL v9 (ScanCode)](https://scancode-licensedb.aboutcode.org/afpl-9.0.html) | Version date 18 September 2000; independently corroborates functional-use and distribution distinction | Catalog is a curated reproduction; actual application requires relevant work's license text |
 | L4 | Policy authority | [OSI Open Source Definition](https://opensource.org/osd) | A license forbidding commercial fields of endeavor or commercial redistribution is not OSI-open-source | Policy classification is not a court's judgment |
@@ -33,15 +33,28 @@ Do not equate four different kinds of evidence: (1) binding legal/license text; 
 | Document signed commercial terms and scope | L1, I1, I2, ID1 | Signed agreement, version/hash, permission ledger |
 | Adopt transparent, fair, mutually understood contracting | I2, I3 | Commercial rights matrix, consent record, dispute process |
 | Offer distinct public/paid licensing with clear rights ownership | P3, P4, P5 | Contributor rights provenance and lawyer-reviewed commercial template |
-| Avoid presenting guidance as newly enforceable conditions | L1, ID1 | Immutable 1.0 LICENSE, semantic future-version change control |
+| Avoid presenting guidance as newly enforceable conditions | L1, ID1 | Versioned LICENSE 2.0.0 and immutable 1.0.0 archive, semantic future-version change control |
 
 ## What evidence does NOT show
 
 - No study cited here proves that AW-NC prevents infringement or increases sales.
 - A fatwa/resolution is a doctrinal authority, not empirical validation or a court ruling.
 - ISO/IEC 27001, 27002, 27005, 27017, 27018, 27034, 27701, 22301, 20000-1 and 15408 may be relevant to security, privacy, continuity, service management or product assurance of deployments; **they are not software license compliance certifications**. Prioritize ISO/IEC 5230 and 5962 for license governance.
-- A local SPDX token such as LicenseRef-AW-NC-1.0 needs its extracted text documented in SPDX metadata and is not an OSI/SPDX-list endorsement.
+- A local SPDX token such as LicenseRef-AW-NC-2.0.0 needs its extracted text documented in SPDX metadata and is not an OSI/SPDX-list endorsement.
 
 ## Review cadence
 
 Re-validate links, publication status, current Indonesian legislation, and license metadata at each future major license revision and annually. Escalate contested legal or fiqh determinations to qualified advisers.
+
+
+## Versioning and contractual covenant evidence update (2026-10-26)
+
+| ID | Source category | Reference | Interpretation |
+|---|---|---|---|
+| V1 | Technical specification | [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html) | MAJOR.MINOR.PATCH is adapted as a **repository version-control policy**; a material change to legal rights is treated as MAJOR, not evidence of civil enforceability |
+| L5 | New operative text | [AW-NC 2.0.0, Sections 5–7](../LICENSE.md) | Specifies reciprocal truthful conduct, licensor's solemn religious covenant, no compelled religion, ordinary legal remedies and prospective version selection |
+| L6 | Archived operative text | [AW-NC 1.0.0](../licenses/AW-NC-1.0.0.md) | Previous historical grant text preserved byte-for-byte; cannot be rewritten retroactively |
+| I4 | Qur'anic normative source | [QS. Al-Ma'idah 5:1](https://quran.com/5/1) | The Islamic duty to fulfill lawful agreements is the ethical basis asserted by the licensor, not an empirical research result |
+| ID2 | Official Indonesian legal source | [UU 28/2014 JDIH BPK](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014) | Copyright and statutory limitations continue to be determined by applicable law |
+
+**Scope of certainty:** Neither the cited scholarship nor institutional fiqh decisions constitute a binding ruling approving this exact AW-NC 2.0.0 wording. Legal counsel and competent scholars should review legally sensitive implementation, especially enforcement across jurisdictions and contributor rights.
