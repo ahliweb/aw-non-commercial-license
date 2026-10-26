@@ -14,6 +14,7 @@ scripts/check_all.sh
 |---|---|
 | [validate_license.py](../scripts/validate_license.py) | VERSION/CHANGELOG/clause consistency; immutable 1.0.0 and 2.0.0 archives |
 | [check_baseline.py](../scripts/check_baseline.py) | Any change to `LICENSE.md` or archives versus [license-baseline.txt](../scripts/license-baseline.txt) |
+| [generate_sbom.py](../scripts/generate_sbom.py) `--check` | Stale `sbom/awnc.spdx.json`; any third-party Python import or unreviewed CI action |
 | [check_links.py](../scripts/check_links.py) | Broken relative Markdown links and anchors |
 | [check_fixtures.py](../scripts/check_fixtures.py) | Fixture structure, missing extracted license text, copyleft + AW-NC coexistence not flagged for counsel |
 

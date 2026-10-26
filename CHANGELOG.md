@@ -7,6 +7,8 @@ Version numbers follow [the repository-specific SemVer policy](docs/semantic-ver
 ### Added (non-binding tooling and guidance; no change to the license text)
 - `scripts/check_links.py`, `scripts/check_baseline.py`, `scripts/check_fixtures.py`, `scripts/check_all.sh` and a lightweight `checks.yml` workflow.
 - Eight mixed-license fixtures with SPDX 2.3 SBOMs and expected review decisions (pending counsel review).
+- `scripts/generate_sbom.py` (file-level SPDX 2.3 SBOM `sbom/awnc.spdx.json`, dependency scan: no third-party Python packages; one CI action, MIT), `scripts/release_tags.sh`.
+- [Desk verification of Indonesian law and Sunni sources](docs/legal-sharia-verification.md) (not a legal opinion or fatwa; findings F1–F5 open).
 - [SBOM and provenance guidance](docs/sbom-and-provenance.md). `VERSION` stays 3.0.0 because `LICENSE.md` is unchanged.
 
 ## [3.0.0] - 2026-10-26

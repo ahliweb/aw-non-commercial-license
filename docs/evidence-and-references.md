@@ -60,6 +60,10 @@ Re-validate links, publication status, current Indonesian legislation, and licen
 **Scope of certainty:** Neither the cited scholarship nor institutional fiqh decisions constitute a binding ruling approving this exact AW-NC 3.0.0 wording. Legal counsel and competent scholars should review legally sensitive implementation, especially enforcement across jurisdictions and contributor rights.
 
 
+## Desk verification (2026-10-26)
+
+See [legal-sharia-verification.md](legal-sharia-verification.md): UU 28/2014 Arts. 40, 80, 82, 83 and Fatwa MUI 1/MUNAS VII/2005 checked against primary/secondary texts; open findings F1–F5; no certification.
+
 ## License coexistence and comparative research (2026-10-26)
 
 **Primary license texts**: [AFPL](https://spdx.org/licenses/Aladdin.html), [PolyForm NC](https://polyformproject.org/licenses/noncommercial/1.0.0), [BSL 1.1](https://mariadb.com/bsl11/), [Commons Clause](https://commonsclause.com/), [SSPL](https://www.mongodb.com/legal/licensing/server-side-public-license), [ELv2](https://www.elastic.co/licensing/elastic-license/), [MIT](https://opensource.org/license/mit). [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html) addresses combined/aggregate works; [SPDX guidance](https://github.com/spdx/using/blob/main/docs/license-id-in-source.md) addresses expressions.
