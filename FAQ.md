@@ -54,24 +54,49 @@ Review the [evidence register](docs/evidence-and-references.md), which distingui
 
 ## Which license edition is current?
 
-The canonical [LICENSE.md](LICENSE.md) is AW-NC **2.0.0**, identified by [VERSION](VERSION). The original [1.0.0](licenses/AW-NC-1.0.0.md) is archived unchanged. Each adopter project must explicitly designate its intended license version; central repository updates are not retroactive.
+The canonical [LICENSE.md](LICENSE.md) is AW-NC **2.0.0**, identified by [VERSION](VERSION). The historical [1.0.0](licenses/AW-NC-1.0.0.md) and [2.0.0](licenses/AW-NC-2.0.0.md) are archived unchanged. Each adopter project must explicitly designate its intended license version; central repository updates are not retroactive.
 
 ## Why a MAJOR version, not a PATCH?
 
-The operative Section 5 introduces mutual contractual commitments and the licensor's solemn Islamic accountability declaration; Section 6 and Section 7 clarify civil law and version scope. That is a substantive change, not merely a link or typographical correction. See [versioning policy](docs/semantic-versioning.md).
+The preceding 2.0.0 introduced Section 5's mutual contractual commitments and the licensor's solemn Islamic accountability declaration; Section 6 and Section 7 clarify civil law and version scope. The newly operative Section 8 also changes the scope clarification and therefore requires a MAJOR version. See [versioning policy](docs/semantic-versioning.md).
 
 ## Does Section 5 require anyone to be Muslim or swear an oath?
 
-No. AW-NC 2.0.0 states the licensor's own solemn commitment before Allah Jalla wa 'Ala, and refers to voluntary moral accountability of Muslim Licensees. All users have the same conduct-based legal terms. No religious conversion, ritual, oath, special religious penalty or religious-court agreement is required.
+No. AW-NC 3.0.0 states the licensor's own solemn commitment before Allah Jalla wa 'Ala, and refers to voluntary moral accountability of Muslim Licensees. All users have the same conduct-based legal terms. No religious conversion, ritual, oath, special religious penalty or religious-court agreement is required.
 
 ## Does this create a separate enforceable contract directly with Allah?
 
 No. The civil legal parties remain the licensor and licensee. The licensor's Islamic affirmation expresses moral and spiritual accountability **before** Allah according to Islamic belief. Civil enforceability and remedies remain subject to applicable law. Consult [Indonesian explanation](docs/akad-syari-id.md).
 
-## Has AW-NC 2.0.0 been certified Sharia compliant or approved by a court?
+## Has AW-NC 3.0.0 been certified Sharia compliant or approved by a court?
 
 No such certification or legal opinion is claimed. References to the Qur'an, IIFA and MUI substantiate a normative ethical foundation, **not** an official endorsement of this precise license text.
 
 ## Can I switch another author's contribution to 2.0.0?
 
 Not without verifying the contribution's rights and relevant authorization; central repository publication does not transfer third-party copyright.
+
+
+## Does AW-NC replace licenses present alongside it?
+
+No. AW-NC §8 explicitly preserves other valid licenses (including MIT, Apache, GPL, AGPL and proprietary terms) **within the legal scope of their own protected material and any relevant derivative/combined work**.
+
+## Are all new software modifications automatically AW-NC?
+
+No. Original independently licensable enhancements are covered only when authorized rightsholders **expressly designate** them as AW-NC. New changes to existing GPL/AGPL code may continue to be governed by copyleft requirements.
+
+## Can a paid AW license authorize a third-party SDK?
+
+No. A grant by AW cannot automatically sublicense code or patents controlled by a different author. Verify those terms separately.
+
+## Does placing GPL and AW modules in separate directories avoid GPL obligations?
+
+Not necessarily. Assess actual copyright-based derivative/combined work status; an incompatible combined distribution cannot be made lawful by a folder separation or a new NOTICE file.
+
+## Which other licenses resemble AW-NC?
+
+See [the complete comparison](docs/comparison.md): Aladdin AFPL, PolyForm Noncommercial, Business Source License, Commons Clause, SSPL, Elastic License 2.0, with MIT as an open-source baseline.
+
+## How are mixed licenses documented?
+
+Use [LICENSE-MAP.md](LICENSE-MAP.md), file-level notices, and SPDX/SBOM. For the same copyright work, `OR` is a genuine rights-holder-granted choice; `AND` indicates legitimately cumulative conditions.
