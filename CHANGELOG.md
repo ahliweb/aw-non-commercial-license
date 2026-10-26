@@ -4,6 +4,9 @@ Version numbers follow [the repository-specific SemVer policy](docs/semantic-ver
 
 ## [Unreleased]
 
+### Released
+- Annotated tags `v2.0.0` and `v3.0.0` and GitHub Releases published; release records updated.
+
 ### Added (non-binding tooling and guidance; no change to the license text)
 - `scripts/check_links.py`, `scripts/check_baseline.py`, `scripts/check_fixtures.py`, `scripts/check_all.sh` and a lightweight `checks.yml` workflow.
 - Eight mixed-license fixtures with SPDX 2.3 SBOMs and expected review decisions (pending counsel review).
