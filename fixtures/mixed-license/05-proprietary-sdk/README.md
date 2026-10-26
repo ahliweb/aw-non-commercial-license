@@ -2,7 +2,7 @@
 
 Proprietary SDK/EULA bundled with an AW-NC feature
 
-> Illustrative scenario, not a real project and not legal advice. Expected decision is a **working hypothesis pending qualified IP counsel review**.
+> Illustrative scenario, not a real project and not legal advice. Expected decision is a **working decision accepted by the AhliWeb team, not independently reviewed by counsel**.
 
 ## Project tree
 

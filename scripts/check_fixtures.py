@@ -29,7 +29,7 @@ def main() -> int:
             errors.append(f"{d.name}: bad spdxVersion")
         if exp.get("decision") not in DECISIONS:
             errors.append(f"{d.name}: invalid decision {exp.get('decision')!r}")
-        if exp.get("requiresCounselReview") is not True or "PENDING" not in exp.get("counselStatus", ""):
+        if exp.get("requiresCounselReview") is not True or "NOT REVIEWED" not in exp.get("counselStatus", ""):
             errors.append(f"{d.name}: must not claim counsel approval")
         extracted = {i["licenseId"]: i for i in sbom.get("hasExtractedLicensingInfos", [])}
         licenses = [p[k] for p in sbom.get("packages", []) for k in ("licenseConcluded", "licenseDeclared")]
@@ -54,7 +54,7 @@ def main() -> int:
         print("\n".join("- " + e for e in errors))
         return 1
     print(f"{len(dirs)} fixtures validated (structure/SBOM text only).")
-    print("Note: expected decisions are hypotheses pending qualified counsel review.")
+    print("Note: expected decisions are working decisions accepted by the AhliWeb team, not independently reviewed.")
     return 0
 
 

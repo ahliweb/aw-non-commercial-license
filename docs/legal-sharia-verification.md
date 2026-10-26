@@ -1,8 +1,8 @@
 # Desk Verification: Indonesian Law and Ahlus Sunnah wal Jama'ah Sources (2026-10-26)
 
-**Status: documentary source check, NOT a legal opinion, fatwa or certification.** It was performed by an AI-assisted review of primary texts. It does **not** replace (a) an Indonesian advokat/konsultan HKI, or (b) a qualified muamalah scholar/institution (for example MUI's Dewan Syariah Nasional, Majelis Tarjih, or LBM NU). Those reviews remain open in [issues #2 and #8](https://github.com/ahliweb/awnc/issues).
+**Status: documentary source check, NOT a legal opinion, fatwa or certification.** It was performed by an AI-assisted review of primary texts. It does **not** replace (a) an Indonesian advokat/konsultan HKI, or (b) a qualified muamalah scholar/institution (for example MUI's Dewan Syariah Nasional, Majelis Tarjih, or LBM NU). Those reviews were not obtained: the AhliWeb team accepted the license terms as its agreement and closed [issues #2 and #8](https://github.com/ahliweb/awnc/issues) as not planned.
 
-Ringkasan (ID): teks lisensi dicocokkan dengan UU 28/2014 dan Fatwa MUI 1/MUNAS VII/2005. Tidak ditemukan pertentangan nyata pada sumber yang diperiksa, tetapi ada empat celah yang perlu ditinjau konsultan (lihat "Findings"). Tidak ada sertifikasi hukum atau syariah.
+Ringkasan (ID): teks lisensi dicocokkan dengan UU 28/2014 dan Fatwa MUI 1/MUNAS VII/2005. Tidak ditemukan pertentangan nyata pada sumber yang diperiksa, tetapi ada celah yang dicatat (lihat "Findings"); tinjauan eksternal tidak direncanakan (keputusan tim AhliWeb) (lihat "Findings"). Tidak ada sertifikasi hukum atau syariah.
 
 ## A. Indonesian law (primary sources)
 
@@ -31,7 +31,7 @@ Method: the classical Sunni principle that the default in *mu'amalat* is permiss
 
 Not claimed: any ruling that §5 (a solemn undertaking before Allah) is a valid *yamin*/contractual term, or on the permissibility of the commercial-fee structure. Those need a qualified scholar.
 
-## C. Findings (for counsel and scholars)
+## C. Findings (known open questions; no external review planned)
 
 1. **F1 Term (Art. 80(2)).** LICENSE.md states no term or termination. Counsel should advise whether a "for the duration of the copyright" statement is needed. Changing it is a MAJOR version change and was **not** made.
 2. **F2 Written agreement (Art. 80(1)).** Assess whether public-license acceptance by use meets the written-agreement requirement for Indonesian licensees.
@@ -41,4 +41,4 @@ Not claimed: any ruling that §5 (a solemn undertaking before Allah) is a valid 
 
 ## D. Conclusion
 
-No provision of AW-NC 3.0.0 was found to conflict with the checked statutory articles, the MUI fatwa or the cited scriptural principles. Findings F1–F5 are open questions for qualified reviewers. Do not describe AW-NC as "Sharia certified" or "legally approved".
+No provision of AW-NC 3.0.0 was found to conflict with the checked statutory articles, the MUI fatwa or the cited scriptural principles. Findings F1–F5 are recorded as known open questions; no external review is planned (AhliWeb team decision). Do not describe AW-NC as "Sharia certified" or "legally approved".
