@@ -25,4 +25,4 @@ AW Ltd (aw-module); upstream authors (vendor/*)
 
 Permissive licenses are preserved in scope; AW-NC covers only designated original code. Confirm AW sole authorship (DCO/assignment) first.
 
-Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [LICENSE-MAP](../../../LICENSE-MAP.md)
+Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [COMPONENT-LICENSE-MAP](../../../COMPONENT-LICENSE-MAP.md)

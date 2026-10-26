@@ -24,4 +24,4 @@ Upstream GPL authors; AW (modifications, GPL-3.0-only forced)
 
 BLOCK distribution under AW-NC for derivative parts. Section 8 does not override GPL obligations.
 
-Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [LICENSE-MAP](../../../LICENSE-MAP.md)
+Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [COMPONENT-LICENSE-MAP](../../../COMPONENT-LICENSE-MAP.md)

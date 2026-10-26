@@ -57,7 +57,7 @@ def main() -> int:
         previous_sha = hashlib.sha1(b"blob " + str(len(previous_bytes)).encode() + b"\0" + previous_bytes).hexdigest()
         if previous_sha != PREVIOUS_SHA:
             errors.append(f"Archived 2.0.0 changed: {previous_sha} != {PREVIOUS_SHA}")
-        if "LicenseRef-AW-NC-3.0.0" not in read("LICENSE-MAP.md"):
+        if "LicenseRef-AW-NC-3.0.0" not in read("COMPONENT-LICENSE-MAP.md"):
             errors.append("Component license map missing version")
     if not read("docs/akad-syari-id.md").strip():
         errors.append("Missing Indonesian explanation")

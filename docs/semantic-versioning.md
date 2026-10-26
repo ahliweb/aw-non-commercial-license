@@ -19,7 +19,7 @@ When an edit could reasonably alter scope or interpretation, err toward a MAJOR 
 2. [AW-NC 1.0.0](../licenses/AW-NC-1.0.0.md) stays byte-for-byte identical to the original historical LICENSE blob `207347b763b8dd8b7dcdcb3959c575c0fe4b1e25`.
 3. [AW-NC 2.0.0](../licenses/AW-NC-2.0.0.md) stays byte-for-byte identical to original LICENSE blob `c0aae42e0dd6f2da4827cb49ef62623e87ed879c`.
 4. [AW-NC 3.0.0](../LICENSE.md) uses §8 to protect other third-party licenses and scopes original enhancements expressly designated by an authorized holder. This does not erase copyright ownership, third-party licenses, GPL/AGPL copyleft or any already valid grants.
-5. Track an actual [component license manifest](../LICENSE-MAP.md) for every adopting project. Rights-holder selection, copyright ownership, SPDX extracted text and corresponding source obligations must be independently verifiable.
+5. Track an actual [component license manifest](../COMPONENT-LICENSE-MAP.md) for every adopting project. Rights-holder selection, copyright ownership, SPDX extracted text and corresponding source obligations must be independently verifiable.
 
 ## Release procedure
 

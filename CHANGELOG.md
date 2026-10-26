@@ -4,6 +4,9 @@ Version numbers follow [the repository-specific SemVer policy](docs/semantic-ver
 
 ## [Unreleased]
 
+### Changed
+- Renamed `LICENSE-MAP.md` to `COMPONENT-LICENSE-MAP.md` so GitHub detects only `LICENSE.md` as the repository license (no longer "licenses found"). Content unchanged; `LICENSE.md` and `VERSION` unchanged.
+
 ### Released
 - Annotated tags `v2.0.0` and `v3.0.0` and GitHub Releases published; release records updated.
 
