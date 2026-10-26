@@ -2,6 +2,6 @@
   "fixture": "03-modified-agpl3-network",
   "decision": "block",
   "requiresCounselReview": true,
-  "counselStatus": "PENDING - no independent legal review has occurred",
+  "counselStatus": "NOT REVIEWED - accepted by the AhliWeb team; no independent legal review has occurred",
   "rationale": "BLOCK AW-NC for the combined work; comply with AGPL or obtain a separate commercial license from AGPL holders."
 }

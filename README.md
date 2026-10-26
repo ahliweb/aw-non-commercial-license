@@ -35,6 +35,6 @@ AW-NC applies to an independently licensable **new original enhancement only whe
 - [docs/adoption-guide.md](docs/adoption-guide.md) — adopting the license
 - [docs/semantic-versioning.md](docs/semantic-versioning.md) — version policy
 - [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md) — how to request a commercial grant
-- [releases/3.0.0.md](releases/3.0.0.md) — release record / pending independent expert approvals
+- [releases/3.0.0.md](releases/3.0.0.md) — release record (AhliWeb team decision; no independent certification)
 
 Verify locally: `python3 scripts/validate_license.py`. This checks version consistency and unchanged history, not the legal validity of a combined work.

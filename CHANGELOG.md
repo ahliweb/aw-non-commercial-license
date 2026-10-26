@@ -12,7 +12,7 @@ Version numbers follow [the repository-specific SemVer policy](docs/semantic-ver
 
 ### Added (non-binding tooling and guidance; no change to the license text)
 - `scripts/check_links.py`, `scripts/check_baseline.py`, `scripts/check_fixtures.py`, `scripts/check_all.sh` and a lightweight `checks.yml` workflow.
-- Eight mixed-license fixtures with SPDX 2.3 SBOMs and expected review decisions (pending counsel review).
+- Eight mixed-license fixtures with SPDX 2.3 SBOMs and expected review decisions (accepted by the AhliWeb team; not independently reviewed).
 - `scripts/generate_sbom.py` (file-level SPDX 2.3 SBOM `sbom/awnc.spdx.json`, dependency scan: no third-party Python packages; one CI action, MIT), `scripts/release_tags.sh`.
 - [Desk verification of Indonesian law and Sunni sources](docs/legal-sharia-verification.md) (not a legal opinion or fatwa; findings F1–F5 open).
 - [SBOM and provenance guidance](docs/sbom-and-provenance.md). `VERSION` stays 3.0.0 because `LICENSE.md` is unchanged.
@@ -43,7 +43,7 @@ No prior 1.0.0 or 2.0.0 grant is changed retroactively. Products select 3.0.0 ex
 ### Migration
 - This publication **does not** retroactively change licenses of earlier software releases, and is not an automatic change to independently licensed repositories.
 - New adoption requires rightsholder authorization and clear version identification.
-- Legal enforceability and specific fiqh questions still warrant independent expert review (see issue #2).
+- Legal enforceability and specific fiqh questions were not independently reviewed; issues #2 and #8 were closed as not planned by AhliWeb team decision.
 
 ## [1.0.0] - 2026-03-23
 

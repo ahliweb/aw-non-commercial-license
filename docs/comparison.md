@@ -49,4 +49,4 @@ AW-NC §8 does **not** change MIT/Apache/GPL/AGPL/proprietary license rights whe
 
 **Important:** Neither §8 nor this comparison promises AW-NC and GPL/AGPL can be combined commercially or distributed together without reviewing actual architecture, license texts, rights and activity.
 
-Each practical case above is modeled in the [mixed-license fixtures](../fixtures/mixed-license) (expected decisions pending counsel review).
+Each practical case above is modeled in the [mixed-license fixtures](../fixtures/mixed-license) (expected decisions are working decisions accepted by the AhliWeb team, not independently reviewed).
