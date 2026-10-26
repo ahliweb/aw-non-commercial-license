@@ -66,7 +66,7 @@ def main() -> int:
         for err in errors:
             print("- " + err)
         return 1
-    print(f"AW-NC {version}: version, clauses, changelog and immutable 1.0.0 archive verified.")
+    print(f"AW-NC {version}: version, clauses, changelog and immutable 1.0.0 and 2.0.0 archives verified.")
     print("Note: technical checks DO NOT establish legal enforceability or Sharia certification.")
     return 0
 
