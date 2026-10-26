@@ -24,4 +24,4 @@ Unknown contributors; AW (aw-core)
 
 BLOCK release of unverified material; obtain written grants or remove.
 
-Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [LICENSE-MAP](../../../LICENSE-MAP.md)
+Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [COMPONENT-LICENSE-MAP](../../../COMPONENT-LICENSE-MAP.md)

@@ -1,4 +1,4 @@
-# LICENSE-MAP: Component-Level Scope and Provenance (TEMPLATE)
+# COMPONENT-LICENSE-MAP: Component-Level Scope and Provenance (TEMPLATE)
 
 This is **only an illustrative template**, not an audit or real component inventory. Populate accurately for every adopting software project. See [AW-NC 3.0.0 §8](LICENSE.md#8-coexisting-licenses-and-scope-of-new-developments).
 

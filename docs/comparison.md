@@ -21,7 +21,7 @@
 
 AW-NC §8 does **not** change MIT/Apache/GPL/AGPL/proprietary license rights where they are applicable. A new AW-owned module may be independently licensed AW-NC **only if legally separable/independently licensable and expressly designated by the rights holder**. A change to GPL/AGPL code cannot automatically be declared exclusively AW-NC. A legally combined work may trigger copyleft duties; the mere existence of several LICENSE files does not authorize an incompatible combination.
 
-**SPDX:** `OR` represents a **genuine authorized alternative** for the same material; `AND` denotes jointly applicable requirements where correctly determined. Different component licenses within one project are not necessarily dual licensing. Record [LICENSE-MAP](../LICENSE-MAP.md), SPDX/SBOM and original licenses.
+**SPDX:** `OR` represents a **genuine authorized alternative** for the same material; `AND` denotes jointly applicable requirements where correctly determined. Different component licenses within one project are not necessarily dual licensing. Record [COMPONENT-LICENSE-MAP](../COMPONENT-LICENSE-MAP.md), SPDX/SBOM and original licenses.
 
 ## Ten practical cases
 

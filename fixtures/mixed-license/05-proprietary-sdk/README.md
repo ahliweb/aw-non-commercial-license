@@ -24,4 +24,4 @@ SDK vendor; AW (aw-feature)
 
 AW-NC cannot grant rights in the SDK. Release blocked until EULA redistribution rights are evidenced.
 
-Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [LICENSE-MAP](../../../LICENSE-MAP.md)
+Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [COMPONENT-LICENSE-MAP](../../../COMPONENT-LICENSE-MAP.md)

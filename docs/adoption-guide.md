@@ -5,7 +5,7 @@
 ## Steps
 
 1. **Provenance:** inventory every component's source, authors, third-party dependencies, contributors, and applicable license.
-2. **Scope map:** replace the examples in [LICENSE-MAP.md](../LICENSE-MAP.md) with actual component licenses and versions; classify original independent modules separately from existing MIT/Apache/GPL/AGPL/proprietary components.
+2. **Scope map:** replace the examples in [COMPONENT-LICENSE-MAP.md](../COMPONENT-LICENSE-MAP.md) with actual component licenses and versions; classify original independent modules separately from existing MIT/Apache/GPL/AGPL/proprietary components.
 3. **Authorize AW contributions:** license only newly authored **original, independently licensable works** where the actual rightsholder(s) possess sufficient authority. A change on someone else's GPL/AGPL code does not automatically escape copyleft.
 4. **Express designation:** specify that precisely identified original modules/files/releases are under AW-NC 3.0.0. Merely publishing this central license repository does not change the license of an adopting project.
 5. **Publish text and notices:** include the complete [LICENSE.md](../LICENSE.md) and clear component-level scope mapping, together with original notices and source obligations. Never claim that the root LICENSE re-licenses all third-party dependencies.
@@ -20,7 +20,7 @@
 ```markdown
 # License
 
-The original modules explicitly identified in LICENSE-MAP.md are licensed
+The original modules explicitly identified in COMPONENT-LICENSE-MAP.md are licensed
 under AW Non-Commercial License 3.0.0 where validly designated by their owner.
 Pre-existing third-party components remain under their own applicable licenses.
 New modifications are not automatically AW-NC.

@@ -44,7 +44,7 @@ Never label it SPDX-approved. Fixtures use a placeholder text; real SBOMs must e
 
 ## File-level provenance for adopter repositories
 
-For every file or component record: source URL and version/SHA, copyright holders, original license and text, modification history, authorship or contributor grant (CLA/DCO), AW-NC designation by an authorized holder, linkage/combination analysis, and approver/date. Use [LICENSE-MAP.md](../LICENSE-MAP.md) as the schema and `SPDX-License-Identifier` headers per [the example header](../examples/example-project-license-header.txt). Keep signed commercial grants private.
+For every file or component record: source URL and version/SHA, copyright holders, original license and text, modification history, authorship or contributor grant (CLA/DCO), AW-NC designation by an authorized holder, linkage/combination analysis, and approver/date. Use [COMPONENT-LICENSE-MAP.md](../COMPONENT-LICENSE-MAP.md) as the schema and `SPDX-License-Identifier` headers per [the example header](../examples/example-project-license-header.txt). Keep signed commercial grants private.
 
 ## Fixtures
 

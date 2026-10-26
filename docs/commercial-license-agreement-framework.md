@@ -69,4 +69,4 @@ Old agreements, previously published AW-NC 1.0.0 code and contributions remain s
 
 ## Third-party rights schedule
 
-Specify exactly which AW-owned original enhancements are covered by a commercial grant; maintain a separate third-party materials appendix under [LICENSE-MAP.md](../LICENSE-MAP.md). Do not claim rights over third-party code, contributions, MIT/Apache notices, GPL/AGPL source obligations, or licensed SDKs. An AW commercial payment cannot cure a conflicting copyleft obligation.
+Specify exactly which AW-owned original enhancements are covered by a commercial grant; maintain a separate third-party materials appendix under [COMPONENT-LICENSE-MAP.md](../COMPONENT-LICENSE-MAP.md). Do not claim rights over third-party code, contributions, MIT/Apache notices, GPL/AGPL source obligations, or licensed SDKs. An AW commercial payment cannot cure a conflicting copyleft obligation.

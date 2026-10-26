@@ -49,4 +49,4 @@ Provide both parties an opportunity to review complete contract terms and applic
 
 ## Commercial use of mixed-license software
 
-Any AW-NC commercial authorization covers only specific, expressly licensed AW-controlled copyrights. The agreement **does not supersede third-party licenses** or confer sublicensing over rights AW does not own. Provide [LICENSE-MAP.md](LICENSE-MAP.md) evidence showing all major components, their original licenses, and provenance, including GPL/AGPL/copyleft compatibility analysis.
+Any AW-NC commercial authorization covers only specific, expressly licensed AW-controlled copyrights. The agreement **does not supersede third-party licenses** or confer sublicensing over rights AW does not own. Provide [COMPONENT-LICENSE-MAP.md](COMPONENT-LICENSE-MAP.md) evidence showing all major components, their original licenses, and provenance, including GPL/AGPL/copyleft compatibility analysis.

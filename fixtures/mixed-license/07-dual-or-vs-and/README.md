@@ -24,4 +24,4 @@ Upstream authors
 
 OR gives a choice; AND is cumulative. SBOM must preserve the expression exactly.
 
-Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [LICENSE-MAP](../../../LICENSE-MAP.md)
+Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [COMPONENT-LICENSE-MAP](../../../COMPONENT-LICENSE-MAP.md)

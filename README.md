@@ -10,7 +10,7 @@ AW-NC is a custom **source-available license, NOT OSI-approved open source**. No
 
 AW-NC applies to an independently licensable **new original enhancement only when** its authorized copyright holder(s) expressly license the identified work as AW-NC. New modifications of existing GPL/AGPL or other third-party material remain subject to applicable source/reciprocal rights. No incompatible combined distribution becomes legal simply because AW-NC coexists in the same repository.
 
-- [LICENSE-MAP.md](LICENSE-MAP.md): template to document per-component owners/licenses and SPDX expressions
+- [COMPONENT-LICENSE-MAP.md](COMPONENT-LICENSE-MAP.md): template to document per-component owners/licenses and SPDX expressions
 - [Similar licenses comparison](docs/comparison.md): AFPL, PolyForm, BSL, Commons Clause, SSPL, Elastic and MIT
 - [License governance](docs/license-compliance-governance.md): provenance, attribution, copyleft compatibility
 - [SBOM and provenance checks](docs/sbom-and-provenance.md): local scripts, SPDX LicenseRef example, mixed-license fixtures
@@ -28,7 +28,7 @@ AW-NC applies to an independently licensable **new original enhancement only whe
 ## Primary documents
 
 - [LICENSE.md](LICENSE.md) — complete current legal text where adopted
-- [LICENSE-MAP.md](LICENSE-MAP.md) — mixed-license component tracking template
+- [COMPONENT-LICENSE-MAP.md](COMPONENT-LICENSE-MAP.md) — mixed-license component tracking template
 - [docs/comparison.md](docs/comparison.md) — similar licenses, risks and scenarios
 - [docs/evidence-and-references.md](docs/evidence-and-references.md) — scholarly, statutory and juristic source register
 - [docs/akad-syari-id.md](docs/akad-syari-id.md) — Islamic contractual ethics and respecting other rightsholders

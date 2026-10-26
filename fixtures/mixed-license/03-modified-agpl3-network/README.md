@@ -24,4 +24,4 @@ Upstream AGPL authors; AW (modifications)
 
 BLOCK AW-NC for the combined work; comply with AGPL or obtain a separate commercial license from AGPL holders.
 
-Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [LICENSE-MAP](../../../LICENSE-MAP.md)
+Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [COMPONENT-LICENSE-MAP](../../../COMPONENT-LICENSE-MAP.md)

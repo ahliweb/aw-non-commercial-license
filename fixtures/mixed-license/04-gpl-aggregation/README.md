@@ -24,4 +24,4 @@ Upstream GPL authors; AW (aw-tool)
 
 Genuine aggregation may keep AW-NC for aw-tool; shared address space, intimate data structures or static linking make it a combined work (see fixture 02). Separate directories are not determinative.
 
-Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [LICENSE-MAP](../../../LICENSE-MAP.md)
+Files: [sbom.spdx.json](sbom.spdx.json) · [expected-decision.json](expected-decision.json) · [COMPONENT-LICENSE-MAP](../../../COMPONENT-LICENSE-MAP.md)
