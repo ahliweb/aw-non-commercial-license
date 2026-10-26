@@ -1,6 +1,6 @@
 # Commercial Licensing Agreement Framework (non-binding checklist)
 
-This is a preparation checklist, **not an executable grant of commercial rights, not a substitute for a signed contract, and not an amendment to [AW-NC 2.0.0](../LICENSE.md)**. No commercial use is authorized until the copyright holder grants prior written permission. See [COMMERCIAL-LICENSING.md](../COMMERCIAL-LICENSING.md).
+This is a preparation checklist, **not an executable grant of commercial rights, not a substitute for a signed contract, and not an amendment to [AW-NC 3.0.0](../LICENSE.md)**. No commercial use is authorized until the copyright holder grants prior written permission. See [COMMERCIAL-LICENSING.md](../COMMERCIAL-LICENSING.md).
 
 ## Parties, rights and commercial scope
 
@@ -60,8 +60,13 @@ Access-control and privacy controls apply to ledger fields containing personal o
 
 Each case needs its own written scope; neither a purchase invoice nor repository visibility is automatically the required license grant.
 
-## AW-NC 2.0.0 legal applicability and amanah
+## AW-NC 3.0.0 legal applicability and amanah
 
-If parties expressly select AW-NC 2.0.0, [Section 5](../LICENSE.md) is an operative license clause concerning reciprocal good-faith conduct and the licensor's solemn Islamic commitment. This checklist does not itself add conditions. Ensure the executed commercial agreement distinguishes legally enforceable duties from religiously motivated ethical declarations; do not compel creed or faith, and preserve existing third-party rights and lawful civil forums.
+If parties expressly select AW-NC 3.0.0, [Section 5](../LICENSE.md) is an operative license clause concerning reciprocal good-faith conduct and the licensor's solemn Islamic commitment. This checklist does not itself add conditions. Ensure the executed commercial agreement distinguishes legally enforceable duties from religiously motivated ethical declarations; do not compel creed or faith, and preserve existing third-party rights and lawful civil forums.
 
 Old agreements, previously published AW-NC 1.0.0 code and contributions remain subject to their own applicable grants, absent valid changes by authorized parties.
+
+
+## Third-party rights schedule
+
+Specify exactly which AW-owned original enhancements are covered by a commercial grant; maintain a separate third-party materials appendix under [LICENSE-MAP.md](../LICENSE-MAP.md). Do not claim rights over third-party code, contributions, MIT/Apache notices, GPL/AGPL source obligations, or licensed SDKs. An AW commercial payment cannot cure a conflicting copyleft obligation.

@@ -1,12 +1,12 @@
-# AW Non-Commercial License 2.0.0
+# AW Non-Commercial License 3.0.0
 
 Copyright (c) 2026 ahliweb.com
 
-**Version:** 2.0.0 (AW-NC-2.0.0)  
+**Version:** 3.0.0 (AW-NC-3.0.0)  
 **License type:** Custom source-available; NOT an Open Source Initiative (OSI) open-source license.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files expressly identified as AW-NC Covered Material (the "Software"), to deal
 in the Software without restriction in non-commercial settings, including
 without limitation the rights to use, copy, modify, merge, publish, and
 distribute copies of the Software, strictly for NON-COMMERCIAL PURPOSES,
@@ -52,13 +52,27 @@ The above copyright notice and this permission notice (including the non-commerc
 
 This License operates subject to applicable copyright and other law, including mandatory statutory rights, limitations, exceptions and legal remedies. Applicable legal authorities and competent dispute-resolution institutions determine civil enforceability and remedies; Section 5 does not purport to replace national law with a religious court or authorize private religious sanctions.
 
-This License grants only rights that the Copyright Holder is authorized to grant. It does not supersede other copyright holders' rights or conflicting third-party licenses. If any provision is found unenforceable under applicable law, that determination does not by itself invalidate the remaining provisions to the extent permitted by law.
+This License grants only rights that the Copyright Holder is authorized to grant. It does not supersede other copyright holders' rights or conflicting third-party licenses. Section 8 defines the separate scope of pre-existing material and valid AW-NC-covered original development. If any provision is found unenforceable under applicable law, that determination does not by itself invalidate the remaining provisions to the extent permitted by law.
 
 ## 7. VERSION SCOPE AND NON-RETROACTIVITY
 
-This version applies to Software that the appropriate rights holder has **expressly designated** as licensed under AW Non-Commercial License 2.0.0. Publication of this version alone does not automatically change the terms previously granted for Software copies or releases distributed under AW-NC 1.0/1.0.0 or any separately executed commercial agreement. A newer Software release must identify which license version governs that release; a Licensee must not assume that rights over earlier versions automatically apply to new versions or third-party contributions.
+This version applies to Software that the appropriate rights holder has **expressly designated** as licensed under AW Non-Commercial License 3.0.0. Publication of this version alone does not automatically change the terms previously granted for Software copies or releases distributed under AW-NC 1.0/1.0.0 or any separately executed commercial agreement. A newer Software release must identify which license version governs that release; a Licensee must not assume that rights over earlier versions automatically apply to new versions or third-party contributions.
 
-A custom reference such as `LicenseRef-AW-NC-2.0.0` may be used with the full extracted license text in SPDX-compatible tooling; it is **not** an official SPDX License List identifier.
+A custom reference such as `LicenseRef-AW-NC-3.0.0` may be used with the full extracted license text in SPDX-compatible tooling; it is **not** an official SPDX License List identifier.
+
+## 8. COEXISTING LICENSES AND SCOPE OF NEW DEVELOPMENTS
+
+**8.1. Continuing effect and scope of pre-existing licenses.** When AW-NC Covered Material is used, modified, developed, packaged, hosted, or distributed together with existing source, components, libraries, binaries, assets, or documentation under another valid license ("Pre-Existing Material"), this License **does not replace, revoke, override, amend, relicense, reduce, or expand that existing license**. All rights, restrictions, obligations, attribution, notices, patent rights and source-code obligations under the Pre-Existing Material's existing license continue to apply **within the scope that such license and applicable law actually govern**. Mere coexistence within a repository, application, container, service, distribution, or deployable system does not by itself transfer ownership or cause AW-NC to govern every part.
+
+**8.2. AW-NC-covered original enhancements.** "AW-NC Covered Material" means Software or identifiable components **expressly designated** under this AW-NC edition by Copyright Holder(s) actually authorized to license them. AW-NC may apply to **new original, independently licensable** modules, functionality, improvements, files and other contributions ("AW-NC Enhancements") outside another license's applicable scope **only where** the relevant rightsholder(s) possess sufficient copyright or permission and expressly choose AW-NC for those identified contributions. Changes are **not automatically AW-NC** merely because they are made later, called improvements, placed in new folders, contributed to an AW-NC project, or developed for payment.
+
+**8.3. Derivatives, modifications and legally combined works.** Where changes incorporate, adapt, link, modify, or legally form a derivative or combined work from Pre-Existing Material, its original licenses' obligations continue to apply to the extent required by their terms and applicable law. Separately copyrightable additions may carry AW-NC terms only insofar as compatible with those obligations and authorized by their rightsholder(s). In particular, this License **does not exempt any part of a covered derivative or combined work from GPL, AGPL or other copyleft duties**, including corresponding-source and redistribution duties where applicable. Whether components are legally separate or combined depends on facts and governing law, not folder names, deployment architecture, or the licensor's unilateral declaration alone.
+
+**8.4. Prohibition on overriding incompatible terms.** If AW-NC and another applicable license cannot lawfully be fulfilled together for a proposed activity or combined work, this License grants **no right to proceed in breach** of either license. Obtain separate valid authorization, use a genuinely permissible design/distribution, or refrain from the incompatible activity. AW-NC does not confer rights in unowned third-party code or permit unilateral relicensing or commercial sublicensing of another person's contribution.
+
+**8.5. Identification and preservation of notices.** For a product containing several separately licensed components, maintainers should clearly identify the applicable license per relevant file, component, or copyrightable work, distinguish explicitly designated AW-NC Enhancements, preserve all original required notices and source offers, and retain an auditable component license manifest. Listing multiple licenses in one repository does not create a free choice of license for all components; an alternative dual-license grant for the *same material* requires authorization by the relevant rightsholder(s).
+
+**8.6. Examples.** An MIT-licensed dependency remains MIT-licensed; an independent AW-owned module may be expressly designated AW-NC with MIT notices preserved where applicable. Changes to GPL/AGPL-covered software may trigger original copyleft obligations and are not automatically exclusive AW-NC material. Distribution of a legally combined work subject to incompatible obligations must not proceed without additional rights. These examples are illustrative, not a determination that any particular interface or integration constitutes a separate or derivative work.
 
 ## DISCLAIMER OF WARRANTY
 

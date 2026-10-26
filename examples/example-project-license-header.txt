@@ -1,6 +1,3 @@
-This project/release explicitly uses AW Non-Commercial License 2.0.0.
-Non-commercial use is permitted subject to its conditions.
-Commercial use requires prior written permission from authorized rightsholder(s).
-Section 5: reciprocal contractual good faith and the licensor's solemn commitment before Allah Jalla wa 'Ala; no religious creed/oath required of Licensees.
-Official complete terms: https://github.com/ahliweb/aw-non-commercial-license/blob/main/LICENSE.md
-Contact: commercial@ahliweb.com
+AW Non-Commercial License 3.0.0 applies only to identified original material expressly licensed by authorized rightsholder(s).
+Pre-existing code retains existing MIT/Apache/GPL/AGPL/proprietary licenses within applicable legal scope.
+Commercial use of AW-NC material requires written permission: commercial@ahliweb.com

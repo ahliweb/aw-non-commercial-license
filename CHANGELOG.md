@@ -2,6 +2,19 @@
 
 Version numbers follow [the repository-specific SemVer policy](docs/semantic-versioning.md). Legal texts are preserved with explicit prospective applicability.
 
+## [3.0.0] - 2026-10-26
+
+### Changed — MAJOR legal-scope release
+- Added operative Section 8: pre-existing licenses remain valid within their actual scope; AW-NC does not override them.
+- New original development may be AW-NC **only if** independently licensable, owned/authorized, and expressly designated.
+- Original GPL/AGPL/copyleft obligations remain in force for covered modifications/combined works; incompatible distribution is not authorized.
+- Archived original AW-NC 2.0.0 byte-for-byte alongside 1.0.0.
+- Added license mapping template, seven similar license comparisons, FAQ examples, and release integrity rules.
+- Section 5 Islamic covenant and ordinary civil law safeguards retained.
+
+### Migration
+No prior 1.0.0 or 2.0.0 grant is changed retroactively. Products select 3.0.0 expressly through authorized copyright owners; third-party rights remain independent.
+
 ## [2.0.0] - 2026-10-26
 
 ### Changed (MAJOR: new operative contractual covenant)

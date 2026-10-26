@@ -9,6 +9,7 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 LEGACY_SHA = "207347b763b8dd8b7dcdcb3959c575c0fe4b1e25"
+PREVIOUS_SHA = "c0aae42e0dd6f2da4827cb49ef62623e87ed879c"
 
 
 def read(relative: str) -> str:
@@ -43,6 +44,21 @@ def main() -> int:
     git_sha = hashlib.sha1(b"blob " + str(len(legacy_bytes)).encode() + b"\0" + legacy_bytes).hexdigest()
     if git_sha != LEGACY_SHA:
         errors.append(f"Archived 1.0.0 bytes changed: {git_sha} != {LEGACY_SHA}")
+    if major >= 3:
+        for clause in (
+            "## 8. COEXISTING LICENSES AND SCOPE OF NEW DEVELOPMENTS",
+            "not automatically AW-NC",
+            "Pre-Existing Material",
+            "AW-NC Covered Material",
+        ):
+            if clause not in license_text:
+                errors.append(f"Missing operative Section 8 term: {clause}")
+        previous_bytes = (ROOT / "licenses/AW-NC-2.0.0.md").read_bytes()
+        previous_sha = hashlib.sha1(b"blob " + str(len(previous_bytes)).encode() + b"\0" + previous_bytes).hexdigest()
+        if previous_sha != PREVIOUS_SHA:
+            errors.append(f"Archived 2.0.0 changed: {previous_sha} != {PREVIOUS_SHA}")
+        if "LicenseRef-AW-NC-3.0.0" not in read("LICENSE-MAP.md"):
+            errors.append("Component license map missing version")
     if not read("docs/akad-syari-id.md").strip():
         errors.append("Missing Indonesian explanation")
     if errors:
@@ -50,7 +66,7 @@ def main() -> int:
         for err in errors:
             print("- " + err)
         return 1
-    print(f"AW-NC {version}: version, clauses, changelog and immutable 1.0.0 archive verified.")
+    print(f"AW-NC {version}: version, clauses, changelog and immutable 1.0.0 and 2.0.0 archives verified.")
     print("Note: technical checks DO NOT establish legal enforceability or Sharia certification.")
     return 0
 

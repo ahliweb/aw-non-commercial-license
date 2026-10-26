@@ -52,9 +52,18 @@ Re-validate links, publication status, current Indonesian legislation, and licen
 | ID | Source category | Reference | Interpretation |
 |---|---|---|---|
 | V1 | Technical specification | [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html) | MAJOR.MINOR.PATCH is adapted as a **repository version-control policy**; a material change to legal rights is treated as MAJOR, not evidence of civil enforceability |
-| L5 | New operative text | [AW-NC 2.0.0, Sections 5–7](../LICENSE.md) | Specifies reciprocal truthful conduct, licensor's solemn religious covenant, no compelled religion, ordinary legal remedies and prospective version selection |
+| L5 | New operative text | [AW-NC 3.0.0, Sections 5–7](../LICENSE.md) | Specifies reciprocal truthful conduct, licensor's solemn religious covenant, no compelled religion, ordinary legal remedies and prospective version selection |
 | L6 | Archived operative text | [AW-NC 1.0.0](../licenses/AW-NC-1.0.0.md) | Previous historical grant text preserved byte-for-byte; cannot be rewritten retroactively |
 | I4 | Qur'anic normative source | [QS. Al-Ma'idah 5:1](https://quran.com/5/1) | The Islamic duty to fulfill lawful agreements is the ethical basis asserted by the licensor, not an empirical research result |
 | ID2 | Official Indonesian legal source | [UU 28/2014 JDIH BPK](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014) | Copyright and statutory limitations continue to be determined by applicable law |
 
-**Scope of certainty:** Neither the cited scholarship nor institutional fiqh decisions constitute a binding ruling approving this exact AW-NC 2.0.0 wording. Legal counsel and competent scholars should review legally sensitive implementation, especially enforcement across jurisdictions and contributor rights.
+**Scope of certainty:** Neither the cited scholarship nor institutional fiqh decisions constitute a binding ruling approving this exact AW-NC 3.0.0 wording. Legal counsel and competent scholars should review legally sensitive implementation, especially enforcement across jurisdictions and contributor rights.
+
+
+## License coexistence and comparative research (2026-10-26)
+
+**Primary license texts**: [AFPL](https://spdx.org/licenses/Aladdin.html), [PolyForm NC](https://polyformproject.org/licenses/noncommercial/1.0.0), [BSL 1.1](https://mariadb.com/bsl11/), [Commons Clause](https://commonsclause.com/), [SSPL](https://www.mongodb.com/legal/licensing/server-side-public-license), [ELv2](https://www.elastic.co/licensing/elastic-license/), [MIT](https://opensource.org/license/mit). [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html) addresses combined/aggregate works; [SPDX guidance](https://github.com/spdx/using/blob/main/docs/license-id-in-source.md) addresses expressions.
+
+**Peer-reviewed empirical motivation:** Wolter et al. (2022), [DOI 10.1145/3571852](https://doi.org/10.1145/3571852), investigated inconsistencies of GitHub license declarations; this supports component-level verification but does not prove AW-NC's legal compatibility. **Research preprint:** Xu et al. (2022), [LiDetector](https://arxiv.org/abs/2204.10502), studies automated detection; do not treat its model or metrics as counsel's legal clearance. **Normative sources:** [IIFA Resolution 43 (5/5)](https://iifa-aifi.org/en/54157.html), [MUI Fatwa 1/2005](https://mui.or.id/baca/fatwa/perlindungan-haki-hak-kekayaan-intelektual), and [Indonesian Copyright Act 28/2014](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
+
+**Legal claim boundary:** Section 8 preserves existing grants in their legal scope and permits independently original AW-NC code only when appropriately authorized. It does **not** automatically license derivative third-party works or resolve incompatible GPL/AGPL combinations. Historical [2.0.0](../licenses/AW-NC-2.0.0.md) and [1.0.0](../licenses/AW-NC-1.0.0.md) are not retroactively modified.

@@ -1,10 +1,5 @@
 # License
 
-This software release, where expressly selected by authorized copyright holders, is licensed under **AW Non-Commercial License 2.0.0**.
+Only specifically identified, independently licensable original material of this release is provided under **AW Non-Commercial License 3.0.0** with rights-holder authorization. Pre-existing dependencies and third-party materials retain their own licenses; new modifications are not automatically AW-NC.
 
-Non-commercial usage is permitted under the [complete license terms](../LICENSE.md).
-Commercial use requires prior written permission from authorized rightsholder(s).
-
-The license includes a reciprocal contractual commitment to truthful conduct and the licensor's declaration of solemn accountability before Allah Jalla wa 'Ala, without requiring Licensees to profess any religion.
-
-For commercial licensing: **commercial@ahliweb.com**.
+See [LICENSE.md](../LICENSE.md), [LICENSE-MAP.md](../LICENSE-MAP.md), [comparison](../docs/comparison.md). Commercial questions: commercial@ahliweb.com.
