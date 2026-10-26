@@ -99,4 +99,4 @@ See [the complete comparison](docs/comparison.md): Aladdin AFPL, PolyForm Noncom
 
 ## How are mixed licenses documented?
 
-Use [LICENSE-MAP.md](LICENSE-MAP.md), file-level notices, and SPDX/SBOM. For the same copyright work, `OR` is a genuine rights-holder-granted choice; `AND` indicates legitimately cumulative conditions.
+Use [LICENSE-MAP.md](LICENSE-MAP.md), file-level notices, and SPDX/SBOM. For the same copyright work, `OR` is a genuine rights-holder-granted choice; `AND` indicates legitimately cumulative conditions. Worked scenarios: [mixed-license fixtures](fixtures/mixed-license) and [SBOM guidance](docs/sbom-and-provenance.md) (expected decisions are hypotheses pending counsel review).

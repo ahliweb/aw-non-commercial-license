@@ -1,0 +1,38 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "03-modified-agpl3-network",
+  "documentNamespace": "https://github.com/ahliweb/awnc/fixtures/mixed-license/03-modified-agpl3-network",
+  "creationInfo": {
+    "created": "2026-10-26T00:00:00Z",
+    "creators": [
+      "Tool: manual-fixture"
+    ]
+  },
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-1",
+      "name": "agpl-svc-modified",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "AGPL-3.0-only",
+      "licenseDeclared": "AGPL-3.0-only",
+      "copyrightText": "NOASSERTION",
+      "comment": "Modified; offered over a network (AGPL s.13)"
+    },
+    {
+      "SPDXID": "SPDXRef-2",
+      "name": "aw-client",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "AGPL-3.0-only",
+      "licenseDeclared": "AGPL-3.0-only",
+      "copyrightText": "NOASSERTION",
+      "comment": "Combined work with agpl-svc; AW-NC designation not effective"
+    }
+  ],
+  "hasExtractedLicensingInfos": []
+}

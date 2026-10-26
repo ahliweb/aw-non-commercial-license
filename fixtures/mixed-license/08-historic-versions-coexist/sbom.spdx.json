@@ -1,0 +1,68 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "08-historic-versions-coexist",
+  "documentNamespace": "https://github.com/ahliweb/awnc/fixtures/mixed-license/08-historic-versions-coexist",
+  "creationInfo": {
+    "created": "2026-10-26T00:00:00Z",
+    "creators": [
+      "Tool: manual-fixture"
+    ]
+  },
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-1",
+      "name": "legacy",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LicenseRef-AW-NC-1.0.0",
+      "licenseDeclared": "LicenseRef-AW-NC-1.0.0",
+      "copyrightText": "NOASSERTION",
+      "comment": "Granted under 1.0.0; not retroactively changed"
+    },
+    {
+      "SPDXID": "SPDXRef-2",
+      "name": "module-v2",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LicenseRef-AW-NC-2.0.0",
+      "licenseDeclared": "LicenseRef-AW-NC-2.0.0",
+      "copyrightText": "NOASSERTION",
+      "comment": "Granted under 2.0.0; not retroactively changed"
+    },
+    {
+      "SPDXID": "SPDXRef-3",
+      "name": "new",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LicenseRef-AW-NC-3.0.0",
+      "licenseDeclared": "LicenseRef-AW-NC-3.0.0",
+      "copyrightText": "NOASSERTION",
+      "comment": "Newly designated under 3.0.0 by authorized holder"
+    }
+  ],
+  "hasExtractedLicensingInfos": [
+    {
+      "licenseId": "LicenseRef-AW-NC-1.0.0",
+      "name": "AW-NC-1.0.0",
+      "extractedText": "See licenses/AW-NC-1.0.0.md (full text must be embedded in a real SBOM).",
+      "comment": "Custom license, NOT SPDX-listed/approved"
+    },
+    {
+      "licenseId": "LicenseRef-AW-NC-2.0.0",
+      "name": "AW-NC-2.0.0",
+      "extractedText": "See licenses/AW-NC-2.0.0.md (full text must be embedded in a real SBOM).",
+      "comment": "Custom license, NOT SPDX-listed/approved"
+    },
+    {
+      "licenseId": "LicenseRef-AW-NC-3.0.0",
+      "name": "AW-NC-3.0.0",
+      "extractedText": "See LICENSE.md of AW-NC 3.0.0 (full text must be embedded in a real SBOM).",
+      "comment": "Custom license, NOT SPDX-listed/approved"
+    }
+  ]
+}

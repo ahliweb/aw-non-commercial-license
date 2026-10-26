@@ -1,0 +1,56 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "01-permissive-with-original",
+  "documentNamespace": "https://github.com/ahliweb/awnc/fixtures/mixed-license/01-permissive-with-original",
+  "creationInfo": {
+    "created": "2026-10-26T00:00:00Z",
+    "creators": [
+      "Tool: manual-fixture"
+    ]
+  },
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-1",
+      "name": "aw-module",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LicenseRef-AW-NC-3.0.0",
+      "licenseDeclared": "LicenseRef-AW-NC-3.0.0",
+      "copyrightText": "NOASSERTION",
+      "comment": "Original AW work, designated AW-NC 3.0.0 by authorized holder"
+    },
+    {
+      "SPDXID": "SPDXRef-2",
+      "name": "mit-lib",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
+      "copyrightText": "NOASSERTION",
+      "comment": "Unmodified third-party; MIT notice retained"
+    },
+    {
+      "SPDXID": "SPDXRef-3",
+      "name": "apache-lib",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "copyrightText": "NOASSERTION",
+      "comment": "Unmodified third-party; NOTICE and patent terms retained"
+    }
+  ],
+  "hasExtractedLicensingInfos": [
+    {
+      "licenseId": "LicenseRef-AW-NC-3.0.0",
+      "name": "AW-NC-3.0.0",
+      "extractedText": "See LICENSE.md of AW-NC 3.0.0 (full text must be embedded in a real SBOM).",
+      "comment": "Custom license, NOT SPDX-listed/approved"
+    }
+  ]
+}

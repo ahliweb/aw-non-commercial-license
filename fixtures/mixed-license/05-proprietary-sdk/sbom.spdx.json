@@ -1,0 +1,51 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "05-proprietary-sdk",
+  "documentNamespace": "https://github.com/ahliweb/awnc/fixtures/mixed-license/05-proprietary-sdk",
+  "creationInfo": {
+    "created": "2026-10-26T00:00:00Z",
+    "creators": [
+      "Tool: manual-fixture"
+    ]
+  },
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-1",
+      "name": "vendor-sdk",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LicenseRef-Vendor-EULA",
+      "licenseDeclared": "LicenseRef-Vendor-EULA",
+      "copyrightText": "NOASSERTION",
+      "comment": "Proprietary; redistribution per EULA only"
+    },
+    {
+      "SPDXID": "SPDXRef-2",
+      "name": "aw-feature",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LicenseRef-AW-NC-3.0.0",
+      "licenseDeclared": "LicenseRef-AW-NC-3.0.0",
+      "copyrightText": "NOASSERTION",
+      "comment": "Original AW work"
+    }
+  ],
+  "hasExtractedLicensingInfos": [
+    {
+      "licenseId": "LicenseRef-AW-NC-3.0.0",
+      "name": "AW-NC-3.0.0",
+      "extractedText": "See LICENSE.md of AW-NC 3.0.0 (full text must be embedded in a real SBOM).",
+      "comment": "Custom license, NOT SPDX-listed/approved"
+    },
+    {
+      "licenseId": "LicenseRef-Vendor-EULA",
+      "name": "Vendor-EULA",
+      "extractedText": "Placeholder: attach vendor EULA text.",
+      "comment": "Custom license, NOT SPDX-listed/approved"
+    }
+  ]
+}
