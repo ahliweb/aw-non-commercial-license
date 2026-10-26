@@ -1,0 +1,7 @@
+{
+  "fixture": "08-historic-versions-coexist",
+  "decision": "allow-with-conditions",
+  "requiresCounselReview": true,
+  "counselStatus": "PENDING - no independent legal review has occurred",
+  "rationale": "Each edition applies prospectively to its own scope; per-file edition identification is required."
+}

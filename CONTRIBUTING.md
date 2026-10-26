@@ -29,6 +29,10 @@ The following should not be changed without explicit maintainer review:
 3. Clearly distinguish documentation improvements from legal-term changes.
 4. Submit pull requests with focused, reviewable changes.
 
+## Checks
+
+Run `scripts/check_all.sh` before opening a pull request. Changes to `LICENSE.md` or archived editions fail the baseline check unless approved per [SBOM and provenance](docs/sbom-and-provenance.md).
+
 ## Legal-Term Changes
 
 Any change that materially affects the legal meaning of the license should be treated as a versioned license change, not a minor wording fix.

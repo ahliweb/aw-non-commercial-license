@@ -48,3 +48,5 @@ AW-NC §8 does **not** change MIT/Apache/GPL/AGPL/proprietary license rights whe
 - [UU No. 28/2014 tentang Hak Cipta](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014) and [Islamic IIFA intellectual property resolution](https://iifa-aifi.org/en/54157.html): distinct statutory and religious normative authorities.
 
 **Important:** Neither §8 nor this comparison promises AW-NC and GPL/AGPL can be combined commercially or distributed together without reviewing actual architecture, license texts, rights and activity.
+
+Each practical case above is modeled in the [mixed-license fixtures](../fixtures/mixed-license) (expected decisions pending counsel review).

@@ -1,0 +1,7 @@
+{
+  "fixture": "04-gpl-aggregation",
+  "decision": "needs-counsel-review",
+  "requiresCounselReview": true,
+  "counselStatus": "PENDING - no independent legal review has occurred",
+  "rationale": "Genuine aggregation may keep AW-NC for aw-tool; shared address space, intimate data structures or static linking make it a combined work (see fixture 02). Separate directories are not determinative."
+}

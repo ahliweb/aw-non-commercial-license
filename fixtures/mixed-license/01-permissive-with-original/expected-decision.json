@@ -1,0 +1,7 @@
+{
+  "fixture": "01-permissive-with-original",
+  "decision": "allow-with-conditions",
+  "requiresCounselReview": true,
+  "counselStatus": "PENDING - no independent legal review has occurred",
+  "rationale": "Permissive licenses are preserved in scope; AW-NC covers only designated original code. Confirm AW sole authorship (DCO/assignment) first."
+}

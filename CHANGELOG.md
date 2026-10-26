@@ -2,6 +2,13 @@
 
 Version numbers follow [the repository-specific SemVer policy](docs/semantic-versioning.md). Legal texts are preserved with explicit prospective applicability.
 
+## [Unreleased]
+
+### Added (non-binding tooling and guidance; no change to the license text)
+- `scripts/check_links.py`, `scripts/check_baseline.py`, `scripts/check_fixtures.py`, `scripts/check_all.sh` and a lightweight `checks.yml` workflow.
+- Eight mixed-license fixtures with SPDX 2.3 SBOMs and expected review decisions (pending counsel review).
+- [SBOM and provenance guidance](docs/sbom-and-provenance.md). `VERSION` stays 3.0.0 because `LICENSE.md` is unchanged.
+
 ## [3.0.0] - 2026-10-26
 
 ### Changed — MAJOR legal-scope release

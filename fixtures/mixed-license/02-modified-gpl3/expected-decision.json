@@ -1,0 +1,7 @@
+{
+  "fixture": "02-modified-gpl3",
+  "decision": "block",
+  "requiresCounselReview": true,
+  "counselStatus": "PENDING - no independent legal review has occurred",
+  "rationale": "BLOCK distribution under AW-NC for derivative parts. Section 8 does not override GPL obligations."
+}

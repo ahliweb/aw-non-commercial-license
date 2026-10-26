@@ -60,7 +60,7 @@ See [evidence register](evidence-and-references.md) and [commercial agreement fr
 - A rights-affecting addition to `LICENSE.md` is a **MAJOR** version change. Existing historical license snapshots remain immutable.
 - Record `VERSION`, `CHANGELOG.md`, the archive hash and, after approval, a signed/annotated version tag (see [SemVer policy](semantic-versioning.md)).
 - Verify that Section 5 states a solemn Islamic commitment of the licensor and reciprocal honesty duties of all Licensees **without** compulsory professing of religion, worldly religious penalties, or infringement of lawful statutory rights.
-- Run `python3 scripts/validate_license.py` prior to the release; independent legal review and fiqh review remain separate expert gates.
+- Run `scripts/check_all.sh` (see [SBOM and provenance](sbom-and-provenance.md)) prior to the release; independent legal review and fiqh review remain separate expert gates.
 
 
 ## AW-NC 3.0.0: Mandatory license scope provenance

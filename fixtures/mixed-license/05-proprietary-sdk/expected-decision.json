@@ -1,0 +1,7 @@
+{
+  "fixture": "05-proprietary-sdk",
+  "decision": "allow-with-conditions",
+  "requiresCounselReview": true,
+  "counselStatus": "PENDING - no independent legal review has occurred",
+  "rationale": "AW-NC cannot grant rights in the SDK. Release blocked until EULA redistribution rights are evidenced."
+}

@@ -1,0 +1,4 @@
+# Git blob SHA-1 baselines of canonical license texts. Change ONLY with documented approval (see docs/license-compliance-governance.md).
+LICENSE.md a18657ff815d49b9feca03874c03127cc9f16dec
+licenses/AW-NC-1.0.0.md 207347b763b8dd8b7dcdcb3959c575c0fe4b1e25
+licenses/AW-NC-2.0.0.md c0aae42e0dd6f2da4827cb49ef62623e87ed879c

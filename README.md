@@ -13,6 +13,7 @@ AW-NC applies to an independently licensable **new original enhancement only whe
 - [LICENSE-MAP.md](LICENSE-MAP.md): template to document per-component owners/licenses and SPDX expressions
 - [Similar licenses comparison](docs/comparison.md): AFPL, PolyForm, BSL, Commons Clause, SSPL, Elastic and MIT
 - [License governance](docs/license-compliance-governance.md): provenance, attribution, copyleft compatibility
+- [SBOM and provenance checks](docs/sbom-and-provenance.md): local scripts, SPDX LicenseRef example, mixed-license fixtures
 
 ## Islamic covenant (retained)
 

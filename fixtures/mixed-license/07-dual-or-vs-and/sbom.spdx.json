@@ -1,0 +1,38 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "07-dual-or-vs-and",
+  "documentNamespace": "https://github.com/ahliweb/awnc/fixtures/mixed-license/07-dual-or-vs-and",
+  "creationInfo": {
+    "created": "2026-10-26T00:00:00Z",
+    "creators": [
+      "Tool: manual-fixture"
+    ]
+  },
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-1",
+      "name": "dual-or",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT OR Apache-2.0",
+      "licenseDeclared": "MIT OR Apache-2.0",
+      "copyrightText": "NOASSERTION",
+      "comment": "Recipient may choose either; AW may select one"
+    },
+    {
+      "SPDXID": "SPDXRef-2",
+      "name": "cumulative-and",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LGPL-3.0-only AND MIT",
+      "licenseDeclared": "LGPL-3.0-only AND MIT",
+      "copyrightText": "NOASSERTION",
+      "comment": "Both sets of terms apply to different parts/aspects; no choice"
+    }
+  ],
+  "hasExtractedLicensingInfos": []
+}

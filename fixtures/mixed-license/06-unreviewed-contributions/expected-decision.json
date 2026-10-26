@@ -1,0 +1,7 @@
+{
+  "fixture": "06-unreviewed-contributions",
+  "decision": "block",
+  "requiresCounselReview": true,
+  "counselStatus": "PENDING - no independent legal review has occurred",
+  "rationale": "BLOCK release of unverified material; obtain written grants or remove."
+}

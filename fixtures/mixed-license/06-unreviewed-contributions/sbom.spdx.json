@@ -1,0 +1,45 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "06-unreviewed-contributions",
+  "documentNamespace": "https://github.com/ahliweb/awnc/fixtures/mixed-license/06-unreviewed-contributions",
+  "creationInfo": {
+    "created": "2026-10-26T00:00:00Z",
+    "creators": [
+      "Tool: manual-fixture"
+    ]
+  },
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-1",
+      "name": "unverified-contrib",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "Rights not verified; no CLA/DCO sign-off"
+    },
+    {
+      "SPDXID": "SPDXRef-2",
+      "name": "aw-core",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LicenseRef-AW-NC-3.0.0",
+      "licenseDeclared": "LicenseRef-AW-NC-3.0.0",
+      "copyrightText": "NOASSERTION",
+      "comment": "Verified AW original"
+    }
+  ],
+  "hasExtractedLicensingInfos": [
+    {
+      "licenseId": "LicenseRef-AW-NC-3.0.0",
+      "name": "AW-NC-3.0.0",
+      "extractedText": "See LICENSE.md of AW-NC 3.0.0 (full text must be embedded in a real SBOM).",
+      "comment": "Custom license, NOT SPDX-listed/approved"
+    }
+  ]
+}
