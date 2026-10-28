@@ -38,6 +38,38 @@
   "files": [
     {
       "SPDXID": "SPDXRef-File-1",
+      "fileName": "./.claude/agents/pelaksana-kompleks.md",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "673685d12e4ca7e1b6ffb287ebafd90237210c9f"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2949817771bd00bbacadf3b12d3dd2f5483472b0a6e3d0223d3048f6dbae35e1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-2",
+      "fileName": "./.claude/agents/pelaksana-sederhana.md",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ca3885b85c6e778f2353785ed207b9b819b9171"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f397d2f6acc775ea0776693f9c559447b9185b365dc962f92fe31fed04bdffb8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3",
       "fileName": "./.github/workflows/checks.yml",
       "checksums": [
         {
@@ -53,7 +85,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-2",
+      "SPDXID": "SPDXRef-File-4",
       "fileName": "./.gitignore",
       "checksums": [
         {
@@ -69,7 +101,23 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-3",
+      "SPDXID": "SPDXRef-File-5",
+      "fileName": "./AGENTS.md",
+      "checksums": [
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4cafcc5a384c37410ca91beb17806e54c637ffb"
+        },
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e529bdc0b50811e688466310aca98ac63a7bb4c84deac785710a0de91bc52e17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6",
       "fileName": "./CHANGELOG.md",
       "checksums": [
         {
@@ -85,7 +133,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-4",
+      "SPDXID": "SPDXRef-File-7",
       "fileName": "./CODE_OF_CONDUCT.md",
       "checksums": [
         {
@@ -101,7 +149,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-5",
+      "SPDXID": "SPDXRef-File-8",
       "fileName": "./COMMERCIAL-LICENSING.md",
       "checksums": [
         {
@@ -117,7 +165,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-6",
+      "SPDXID": "SPDXRef-File-9",
       "fileName": "./COMPONENT-LICENSE-MAP.md",
       "checksums": [
         {
@@ -133,7 +181,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-7",
+      "SPDXID": "SPDXRef-File-10",
       "fileName": "./CONTRIBUTING.md",
       "checksums": [
         {
@@ -149,7 +197,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-8",
+      "SPDXID": "SPDXRef-File-11",
       "fileName": "./FAQ.md",
       "checksums": [
         {
@@ -165,7 +213,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-9",
+      "SPDXID": "SPDXRef-File-12",
       "fileName": "./LICENSE.md",
       "checksums": [
         {
@@ -181,7 +229,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-10",
+      "SPDXID": "SPDXRef-File-13",
       "fileName": "./NOTICE",
       "checksums": [
         {
@@ -197,7 +245,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-11",
+      "SPDXID": "SPDXRef-File-14",
       "fileName": "./README.md",
       "checksums": [
         {
@@ -213,7 +261,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-12",
+      "SPDXID": "SPDXRef-File-15",
       "fileName": "./SECURITY.md",
       "checksums": [
         {
@@ -229,7 +277,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-13",
+      "SPDXID": "SPDXRef-File-16",
       "fileName": "./VERSION",
       "checksums": [
         {
@@ -245,7 +293,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-14",
+      "SPDXID": "SPDXRef-File-17",
       "fileName": "./docs/adoption-guide.md",
       "checksums": [
         {
@@ -261,7 +309,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-15",
+      "SPDXID": "SPDXRef-File-18",
       "fileName": "./docs/akad-syari-id.md",
       "checksums": [
         {
@@ -277,7 +325,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-16",
+      "SPDXID": "SPDXRef-File-19",
       "fileName": "./docs/commercial-license-agreement-framework.md",
       "checksums": [
         {
@@ -293,7 +341,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-17",
+      "SPDXID": "SPDXRef-File-20",
       "fileName": "./docs/comparison.md",
       "checksums": [
         {
@@ -309,7 +357,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-18",
+      "SPDXID": "SPDXRef-File-21",
       "fileName": "./docs/evidence-and-references.md",
       "checksums": [
         {
@@ -325,7 +373,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-19",
+      "SPDXID": "SPDXRef-File-22",
       "fileName": "./docs/islamic-contractual-ethics.md",
       "checksums": [
         {
@@ -341,7 +389,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-20",
+      "SPDXID": "SPDXRef-File-23",
       "fileName": "./docs/legal-sharia-verification.md",
       "checksums": [
         {
@@ -357,7 +405,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-21",
+      "SPDXID": "SPDXRef-File-24",
       "fileName": "./docs/license-compliance-governance.md",
       "checksums": [
         {
@@ -373,7 +421,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-22",
+      "SPDXID": "SPDXRef-File-25",
       "fileName": "./docs/rationale.md",
       "checksums": [
         {
@@ -389,7 +437,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-23",
+      "SPDXID": "SPDXRef-File-26",
       "fileName": "./docs/sbom-and-provenance.md",
       "checksums": [
         {
@@ -405,7 +453,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-24",
+      "SPDXID": "SPDXRef-File-27",
       "fileName": "./docs/semantic-versioning.md",
       "checksums": [
         {
@@ -421,7 +469,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-25",
+      "SPDXID": "SPDXRef-File-28",
       "fileName": "./docs/trademark-policy.md",
       "checksums": [
         {
@@ -437,7 +485,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-26",
+      "SPDXID": "SPDXRef-File-29",
       "fileName": "./examples/example-commercial-request-email.md",
       "checksums": [
         {
@@ -453,7 +501,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-27",
+      "SPDXID": "SPDXRef-File-30",
       "fileName": "./examples/example-project-license-header.txt",
       "checksums": [
         {
@@ -469,7 +517,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-28",
+      "SPDXID": "SPDXRef-File-31",
       "fileName": "./examples/example-readme-snippet.md",
       "checksums": [
         {
@@ -485,7 +533,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-29",
+      "SPDXID": "SPDXRef-File-32",
       "fileName": "./fixtures/mixed-license/01-permissive-with-original/README.md",
       "checksums": [
         {
@@ -501,7 +549,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-30",
+      "SPDXID": "SPDXRef-File-33",
       "fileName": "./fixtures/mixed-license/01-permissive-with-original/expected-decision.json",
       "checksums": [
         {
@@ -517,7 +565,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-31",
+      "SPDXID": "SPDXRef-File-34",
       "fileName": "./fixtures/mixed-license/01-permissive-with-original/sbom.spdx.json",
       "checksums": [
         {
@@ -533,7 +581,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-32",
+      "SPDXID": "SPDXRef-File-35",
       "fileName": "./fixtures/mixed-license/02-modified-gpl3/README.md",
       "checksums": [
         {
@@ -549,7 +597,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-33",
+      "SPDXID": "SPDXRef-File-36",
       "fileName": "./fixtures/mixed-license/02-modified-gpl3/expected-decision.json",
       "checksums": [
         {
@@ -565,7 +613,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-34",
+      "SPDXID": "SPDXRef-File-37",
       "fileName": "./fixtures/mixed-license/02-modified-gpl3/sbom.spdx.json",
       "checksums": [
         {
@@ -581,7 +629,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-35",
+      "SPDXID": "SPDXRef-File-38",
       "fileName": "./fixtures/mixed-license/03-modified-agpl3-network/README.md",
       "checksums": [
         {
@@ -597,7 +645,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-36",
+      "SPDXID": "SPDXRef-File-39",
       "fileName": "./fixtures/mixed-license/03-modified-agpl3-network/expected-decision.json",
       "checksums": [
         {
@@ -613,7 +661,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-37",
+      "SPDXID": "SPDXRef-File-40",
       "fileName": "./fixtures/mixed-license/03-modified-agpl3-network/sbom.spdx.json",
       "checksums": [
         {
@@ -629,7 +677,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-38",
+      "SPDXID": "SPDXRef-File-41",
       "fileName": "./fixtures/mixed-license/04-gpl-aggregation/README.md",
       "checksums": [
         {
@@ -645,7 +693,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-39",
+      "SPDXID": "SPDXRef-File-42",
       "fileName": "./fixtures/mixed-license/04-gpl-aggregation/expected-decision.json",
       "checksums": [
         {
@@ -661,7 +709,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-40",
+      "SPDXID": "SPDXRef-File-43",
       "fileName": "./fixtures/mixed-license/04-gpl-aggregation/sbom.spdx.json",
       "checksums": [
         {
@@ -677,7 +725,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-41",
+      "SPDXID": "SPDXRef-File-44",
       "fileName": "./fixtures/mixed-license/05-proprietary-sdk/README.md",
       "checksums": [
         {
@@ -693,7 +741,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-42",
+      "SPDXID": "SPDXRef-File-45",
       "fileName": "./fixtures/mixed-license/05-proprietary-sdk/expected-decision.json",
       "checksums": [
         {
@@ -709,7 +757,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-43",
+      "SPDXID": "SPDXRef-File-46",
       "fileName": "./fixtures/mixed-license/05-proprietary-sdk/sbom.spdx.json",
       "checksums": [
         {
@@ -725,7 +773,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-44",
+      "SPDXID": "SPDXRef-File-47",
       "fileName": "./fixtures/mixed-license/06-unreviewed-contributions/README.md",
       "checksums": [
         {
@@ -741,7 +789,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-45",
+      "SPDXID": "SPDXRef-File-48",
       "fileName": "./fixtures/mixed-license/06-unreviewed-contributions/expected-decision.json",
       "checksums": [
         {
@@ -757,7 +805,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-46",
+      "SPDXID": "SPDXRef-File-49",
       "fileName": "./fixtures/mixed-license/06-unreviewed-contributions/sbom.spdx.json",
       "checksums": [
         {
@@ -773,7 +821,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-47",
+      "SPDXID": "SPDXRef-File-50",
       "fileName": "./fixtures/mixed-license/07-dual-or-vs-and/README.md",
       "checksums": [
         {
@@ -789,7 +837,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-48",
+      "SPDXID": "SPDXRef-File-51",
       "fileName": "./fixtures/mixed-license/07-dual-or-vs-and/expected-decision.json",
       "checksums": [
         {
@@ -805,7 +853,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-49",
+      "SPDXID": "SPDXRef-File-52",
       "fileName": "./fixtures/mixed-license/07-dual-or-vs-and/sbom.spdx.json",
       "checksums": [
         {
@@ -821,7 +869,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-50",
+      "SPDXID": "SPDXRef-File-53",
       "fileName": "./fixtures/mixed-license/08-historic-versions-coexist/README.md",
       "checksums": [
         {
@@ -837,7 +885,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-51",
+      "SPDXID": "SPDXRef-File-54",
       "fileName": "./fixtures/mixed-license/08-historic-versions-coexist/expected-decision.json",
       "checksums": [
         {
@@ -853,7 +901,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-52",
+      "SPDXID": "SPDXRef-File-55",
       "fileName": "./fixtures/mixed-license/08-historic-versions-coexist/sbom.spdx.json",
       "checksums": [
         {
@@ -869,7 +917,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-53",
+      "SPDXID": "SPDXRef-File-56",
       "fileName": "./licenses/AW-NC-1.0.0.md",
       "checksums": [
         {
@@ -885,7 +933,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-54",
+      "SPDXID": "SPDXRef-File-57",
       "fileName": "./licenses/AW-NC-2.0.0.md",
       "checksums": [
         {
@@ -901,7 +949,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-55",
+      "SPDXID": "SPDXRef-File-58",
       "fileName": "./releases/2.0.0.md",
       "checksums": [
         {
@@ -917,7 +965,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-56",
+      "SPDXID": "SPDXRef-File-59",
       "fileName": "./releases/3.0.0.md",
       "checksums": [
         {
@@ -933,7 +981,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-57",
+      "SPDXID": "SPDXRef-File-60",
       "fileName": "./scripts/check_all.sh",
       "checksums": [
         {
@@ -949,7 +997,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-58",
+      "SPDXID": "SPDXRef-File-61",
       "fileName": "./scripts/check_baseline.py",
       "checksums": [
         {
@@ -965,7 +1013,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-59",
+      "SPDXID": "SPDXRef-File-62",
       "fileName": "./scripts/check_fixtures.py",
       "checksums": [
         {
@@ -981,7 +1029,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-60",
+      "SPDXID": "SPDXRef-File-63",
       "fileName": "./scripts/check_links.py",
       "checksums": [
         {
@@ -997,7 +1045,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-61",
+      "SPDXID": "SPDXRef-File-64",
       "fileName": "./scripts/generate_sbom.py",
       "checksums": [
         {
@@ -1013,7 +1061,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-62",
+      "SPDXID": "SPDXRef-File-65",
       "fileName": "./scripts/license-baseline.txt",
       "checksums": [
         {
@@ -1029,7 +1077,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-63",
+      "SPDXID": "SPDXRef-File-66",
       "fileName": "./scripts/release_tags.sh",
       "checksums": [
         {
@@ -1045,7 +1093,7 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "SPDXID": "SPDXRef-File-64",
+      "SPDXID": "SPDXRef-File-67",
       "fileName": "./scripts/validate_license.py",
       "checksums": [
         {
@@ -1391,6 +1439,21 @@
       "spdxElementId": "SPDXRef-awnc",
       "relationshipType": "CONTAINS",
       "relatedSpdxElement": "SPDXRef-File-64"
+    },
+    {
+      "spdxElementId": "SPDXRef-awnc",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-File-65"
+    },
+    {
+      "spdxElementId": "SPDXRef-awnc",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-File-66"
+    },
+    {
+      "spdxElementId": "SPDXRef-awnc",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-File-67"
     }
   ],
   "hasExtractedLicensingInfos": [
