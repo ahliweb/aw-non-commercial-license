@@ -2,7 +2,17 @@
 
 **Current canonical license:** [LICENSE.md](LICENSE.md) · **Version:** [VERSION](VERSION) · **Prior historical licenses:** [1.0.0](licenses/AW-NC-1.0.0.md) and [2.0.0](licenses/AW-NC-2.0.0.md).
 
-AW-NC is a custom **source-available license, NOT OSI-approved open source**. Noncommercial use, copying, modification and redistribution of properly identified AW-NC Covered Material are subject to its terms. Commercial use (including paid SaaS, consulting, or revenue-supporting business operations) requires prior written authorization: **commercial@ahliweb.com**.
+AW-NC is a custom **source-available license, NOT OSI-approved open source**. Noncommercial use, copying, modification and redistribution of properly identified AW-NC Covered Material are subject to its terms. Commercial use (including paid SaaS, consulting, or revenue-supporting business operations) requires prior written authorization from the authorized rightsholder. For AhliWeb's own products/services: **commercial@ahliweb.com** (see the adopter notice below).
+
+> **Important for AW-NC adopters / Penting untuk pengadopsi AW-NC**
+>
+> **English:** The address `commercial@ahliweb.com` in Section 2 is the commercial-request contact **only for AhliWeb products/services that are within AhliWeb's licensing authority**. If you adopt AW-NC for a project whose commercial rights you or someone else manage, **replace the Section 2 destination address in your copy with the email of the rightsholder or its authorized representative**, and synchronize every notice and `mailto:` link in your project. **If it is not replaced, email will still go to `commercial@ahliweb.com`, and requests about products/services that are not AhliWeb's will not be answered.** No answer is not permission; silence is never consent. AhliWeb does not forward such email and offers no response-time commitment.
+>
+> **Indonesia:** Alamat `commercial@ahliweb.com` pada Pasal 2 adalah kontak **khusus permohonan komersial untuk produk/layanan AhliWeb yang memang berada dalam kewenangan lisensinya**. Jika Anda mengadopsi AW-NC untuk proyek yang hak komersialnya dikelola sendiri, **ganti email tujuan pada Pasal 2 dengan email pemegang hak atau wakil resmi yang berwenang** dan sinkronkan semua pemberitahuan serta tautan `mailto:` di proyek Anda. **Jika tidak diganti, email akan tetap dikirim ke `commercial@ahliweb.com`, dan permohonan untuk produk/layanan bukan milik AhliWeb tidak akan ditanggapi.** Tidak adanya jawaban tidak memberikan izin komersial. AhliWeb tidak meneruskan email tersebut dan tidak menjanjikan waktu respons.
+>
+> This is non-binding adoption guidance. It is not a new commercial grant, legal advice, or legal/Sharia certification, and it does not change [LICENSE.md](LICENSE.md).
+
+See [Customize the commercial licensing contact](docs/adoption-guide.md#customize-commercial-licensing-contact--penyesuaian-kontak-lisensi-komersial).
 
 ## New in 3.0.0 — Existing licenses are respected
 

@@ -6,9 +6,19 @@ Commercial use is not permitted under the public license text without prior writ
 
 ## Contact
 
-Please send inquiries to:
+> **Important for AW-NC adopters / Penting untuk pengadopsi AW-NC**
+>
+> **English:** The address `commercial@ahliweb.com` in Section 2 is the commercial-request contact **only for AhliWeb products/services that are within AhliWeb's licensing authority**. If you adopt AW-NC for a project whose commercial rights you or someone else manage, **replace the Section 2 destination address in your copy with the email of the rightsholder or its authorized representative**, and synchronize every notice and `mailto:` link in your project. **If it is not replaced, email will still go to `commercial@ahliweb.com`, and requests about products/services that are not AhliWeb's will not be answered.** No answer is not permission; silence is never consent. AhliWeb does not forward such email and offers no response-time commitment.
+>
+> **Indonesia:** Alamat `commercial@ahliweb.com` pada Pasal 2 adalah kontak **khusus permohonan komersial untuk produk/layanan AhliWeb yang memang berada dalam kewenangan lisensinya**. Jika Anda mengadopsi AW-NC untuk proyek yang hak komersialnya dikelola sendiri, **ganti email tujuan pada Pasal 2 dengan email pemegang hak atau wakil resmi yang berwenang** dan sinkronkan semua pemberitahuan serta tautan `mailto:` di proyek Anda. **Jika tidak diganti, email akan tetap dikirim ke `commercial@ahliweb.com`, dan permohonan untuk produk/layanan bukan milik AhliWeb tidak akan ditanggapi.** Tidak adanya jawaban tidak memberikan izin komersial. AhliWeb tidak meneruskan email tersebut dan tidak menjanjikan waktu respons.
+>
+> This is non-binding adoption guidance. It is not a new commercial grant, legal advice, or legal/Sharia certification, and it does not change [LICENSE.md](LICENSE.md).
+
+Send inquiries about **AhliWeb products/services** to:
 
 **commercial@ahliweb.com**
+
+Three roles are distinct: the **rightsholder** (owns the rights), the **email recipient** (receives requests) and the person **authorized to issue a commercial grant**. Receiving an email does not make anyone a rightsholder or authorize a grant; see [scenarios](docs/adoption-guide.md#documented-scenarios--skenario-terdokumentasi).
 
 ## Include the following information
 
