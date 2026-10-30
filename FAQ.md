@@ -30,7 +30,11 @@ No, unless you have prior written permission.
 
 ## Where do I request commercial permission?
 
-commercial@ahliweb.com
+From the authorized rightsholder of the specific software. For AhliWeb's own products/services that is **commercial@ahliweb.com**. For any other project, use the contact that project's rightsholder published; see [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md).
+
+## I adopted AW-NC for my own project. What must I change? / Saya mengadopsi AW-NC untuk proyek saya sendiri, apa yang harus diubah?
+
+Replace the Section 2 destination address in **your copy** (and every notice and `mailto:` link) with the email of your authorized rightsholder or representative. `commercial@ahliweb.com` is only for AhliWeb products/services within AhliWeb's authority. If you do not replace it, requests go to AhliWeb, **will not be answered** for non-AhliWeb projects, are not forwarded, carry no response-time commitment, and no answer is never permission. Ganti email tujuan Pasal 2 pada salinan Anda dengan email pemegang hak/wakil resmi; jika tidak, permohonan tetap ke AhliWeb, tidak ditanggapi untuk proyek non-AhliWeb, dan **diam bukan persetujuan**. Details: [adoption guide](docs/adoption-guide.md#customize-commercial-licensing-contact--penyesuaian-kontak-lisensi-komersial). This is non-binding guidance, not a commercial grant.
 
 ## Does AW-NC allow a paid SaaS or revenue-supporting internal CRM?
 
@@ -54,7 +58,7 @@ Review the [evidence register](docs/evidence-and-references.md), which distingui
 
 ## Which license edition is current?
 
-The canonical [LICENSE.md](LICENSE.md) is AW-NC **2.0.0**, identified by [VERSION](VERSION). The historical [1.0.0](licenses/AW-NC-1.0.0.md) and [2.0.0](licenses/AW-NC-2.0.0.md) are archived unchanged. Each adopter project must explicitly designate its intended license version; central repository updates are not retroactive.
+The canonical [LICENSE.md](LICENSE.md) is AW-NC **3.0.0**, identified by [VERSION](VERSION). The historical [1.0.0](licenses/AW-NC-1.0.0.md) and [2.0.0](licenses/AW-NC-2.0.0.md) are archived unchanged. Each adopter project must explicitly designate its intended license version; central repository updates are not retroactive.
 
 ## Why a MAJOR version, not a PATCH?
 

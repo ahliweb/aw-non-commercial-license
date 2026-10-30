@@ -1,3 +1,3 @@
 AW Non-Commercial License 3.0.0 applies only to identified original material expressly licensed by authorized rightsholder(s).
 Pre-existing code retains existing MIT/Apache/GPL/AGPL/proprietary licenses within applicable legal scope.
-Commercial use of AW-NC material requires written permission: commercial@ahliweb.com
+Commercial use of AW-NC material requires written permission from the authorized rightsholder: licensing@example.org (illustrative; replace with your own)

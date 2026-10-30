@@ -11,6 +11,7 @@ Version numbers follow [the repository-specific SemVer policy](docs/semantic-ver
 - Annotated tags `v2.0.0` and `v3.0.0` and GitHub Releases published; release records updated.
 
 ### Added (non-binding tooling and guidance; no change to the license text)
+- Adopter guidance for customizing the Section 2 commercial contact (issue #15): bilingual notice in README, adoption guide, COMMERCIAL-LICENSING and FAQ; six scenarios; `example.org` examples. FAQ now names canonical 3.0.0. `LICENSE.md`, `VERSION` and archives unchanged.
 - `scripts/check_links.py`, `scripts/check_baseline.py`, `scripts/check_fixtures.py`, `scripts/check_all.sh` and a lightweight `checks.yml` workflow.
 - Eight mixed-license fixtures with SPDX 2.3 SBOMs and expected review decisions (accepted by the AhliWeb team; not independently reviewed).
 - `scripts/generate_sbom.py` (file-level SPDX 2.3 SBOM `sbom/awnc.spdx.json`, dependency scan: no third-party Python packages; one CI action, MIT), `scripts/release_tags.sh`.
